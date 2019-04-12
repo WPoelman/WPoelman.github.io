@@ -1,0 +1,221 @@
+/*
+
+Gemaakt door: Wessel Poelman
+
+ */
+
+/* BODY AND LINKS */
+body {
+    margin: 0px;
+    font-family: "Source Sans Pro";
+    background-color: #d3d3d3;
+    font-size: 16pt;
+    color: #2d2e30;
+}
+
+a:link, a:visited, a:active {
+    text-decoration: underline #F89554;
+    color: #2d2e30;
+}
+
+a:hover {
+    background-color: #A9A9A9;
+}
+
+/* FLEX BIGGER SCREENS */
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.content {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    flex-flow: row;
+    flex-direction: row;
+}
+
+.column {
+    margin: 10px;
+    padding: 1%;
+}
+
+/* BUILDING BLOCKS */
+.col-1 {
+    flex-grow: 1;
+}
+
+.col-2 {
+    flex-grow: 2;
+}
+
+.col-3 {
+    flex-grow: 3;
+}
+
+.col-4 {
+    flex-grow: 4;
+}
+
+.col-5 {
+    flex-grow: 5;
+}
+
+.col-6 {
+    flex-grow: 6;
+}
+
+.col-7 {
+    flex-grow: 7;
+}
+
+.col-8 {
+    flex-grow: 8;
+}
+
+.col-9 {
+    flex-grow: 9;
+}
+
+.col-10 {
+    flex-grow: 10;
+}
+
+.col-11 {
+    flex-grow: 11;
+}
+
+.col-12 {
+    flex-grow: 12;
+}
+
+/* NAVIGATION BAR */
+nav ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    font-size: 10pt;
+}
+
+nav ul li {
+    padding: 0px;
+    margin: 2px;
+    background-color: #d3d3d3;
+}
+
+nav ul a:link {
+    display: block;
+    text-decoration: none;
+    padding: 1%;
+}
+
+nav .active {
+    background-color: darkgray;
+    border-bottom: 2px #F89554 solid;
+}
+
+nav ul a:hover {
+    background-color: #F89554;
+}
+
+.main_nav {
+    font-size: 12pt;
+    border-bottom: 0.5px gray solid;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+/* HEADER */
+header {
+    border-bottom: 1px solid black;
+    padding: 3%;
+}
+
+header a:link {
+    text-decoration: none;
+}
+
+/* TEXT */
+p {
+    margin: 1%;
+}
+
+h1, h2, h3 {
+    display: inline;
+}
+
+/* FOOTER */
+footer {
+    display: flex;
+    font-size: 8pt;
+    margin: 40px 0px 0px 0px;
+    padding: 0px;
+}
+
+footer .row {
+    border-top: 1px #2d2e30 solid;
+}
+
+footer ul {
+    list-style-type: none;
+}
+
+/* FLEX SMALLER SCREENS */
+@media (max-width: 767.98px) {
+    .container {
+        width: 100%;
+    }
+
+    .row {
+        flex-flow: column;
+        flex-direction: column;
+    }
+
+    .content {
+        width: 100%;
+    }
+
+    .column {
+        margin: 20px;
+        width: 90%;
+    }
+
+    footer .row {
+        flex-flow: row;
+        flex-direction: row;
+    }
+}
+
+/* FLEX MEDIUM SCREENS */
+@media (min-width: 768px) and (max-width: 1100px) {
+    .container {
+        width: 95%;
+    }
+
+    .row {
+        flex-flow: column;
+        flex-direction: column;
+    }
+
+    .content {
+        width: 100%;
+        margin: 0px;
+    }
+
+    .column {
+        margin: 20px;
+        width: 90%;
+    }
+
+    footer .row, nav .row, header .row {
+        flex-flow: row;
+        flex-direction: row;
+    }
+}
