@@ -152,10 +152,8 @@ h1, h2, h3 {
 
 /* FOOTER */
 footer {
-    display: flex;
     font-size: 8pt;
-    margin: 40px 0 0 0;
-    padding: 0;
+    margin: 20% 0 0 0;
 }
 
 footer .row {
@@ -186,6 +184,10 @@ footer ul {
         width: 90%;
     }
 
+    footer {
+        margin: 10% 0 0 0;
+    }
+
     footer .row {
         flex-flow: row;
         flex-direction: row;
@@ -211,6 +213,10 @@ footer ul {
     .column {
         margin: 20px;
         width: 90%;
+    }
+
+    footer {
+        margin: 10% 0 0 0;
     }
 
     footer .row, header .row {
