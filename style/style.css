@@ -1,13 +1,14 @@
 /*
 
 Gemaakt door: Wessel Poelman
+Bugs of opmerkingen, mail gerust naar contact@wesselpoelman.nl
 
  */
 
 /* BODY AND LINKS */
 body {
-    margin: 0px;
-    font-family: "Source Sans Pro";
+    margin: 0;
+    font-family: "Source Sans Pro", sans-serif;
     background-color: #d3d3d3;
     font-size: 16pt;
     color: #2d2e30;
@@ -98,15 +99,14 @@ a:hover {
 /* NAVIGATION BAR */
 nav ul {
     list-style-type: none;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     display: flex;
     font-size: 10pt;
 }
 
 nav ul li {
-    padding: 0px;
-    margin: 2px;
+    padding: 0;
     background-color: #d3d3d3;
 }
 
@@ -127,8 +127,7 @@ nav ul a:hover {
 
 .main_nav {
     font-size: 12pt;
-    border-bottom: 0.5px gray solid;
-    max-width: 1100px;
+    border-bottom: 1px gray solid;
     margin: 0 auto;
 }
 
@@ -155,8 +154,8 @@ h1, h2, h3 {
 footer {
     display: flex;
     font-size: 8pt;
-    margin: 40px 0px 0px 0px;
-    padding: 0px;
+    margin: 40px 0 0 0;
+    padding: 0;
 }
 
 footer .row {
@@ -183,7 +182,7 @@ footer ul {
     }
 
     .column {
-        margin: 20px;
+        margin: 0;
         width: 90%;
     }
 
@@ -206,7 +205,7 @@ footer ul {
 
     .content {
         width: 100%;
-        margin: 0px;
+        margin: 0;
     }
 
     .column {
@@ -214,7 +213,7 @@ footer ul {
         width: 90%;
     }
 
-    footer .row, nav .row, header .row {
+    footer .row, header .row {
         flex-flow: row;
         flex-direction: row;
     }
