@@ -3,24 +3,24 @@
 Gemaakt door: Wessel Poelman
 Bugs of opmerkingen, mail gerust naar contact@wesselpoelman.nl
 
- */
+*/
 
 /* BODY AND LINKS */
 body {
     margin: 0;
     font-family: "Source Sans Pro", sans-serif;
-    background-color: #d3d3d3;
+    background-color: #383838;
     font-size: 16pt;
-    color: #2d2e30;
+    color: #d3cfcf;
 }
 
 a:link, a:visited, a:active {
     text-decoration: underline #F89554;
-    color: #2d2e30;
+    color: #b0b7c5;
 }
 
 a:hover {
-    background-color: #A9A9A9;
+    background-color: rgb(94, 64, 30);
 }
 
 /* FLEX BIGGER SCREENS */
@@ -94,12 +94,8 @@ a:hover {
 
 /* HEADER */
 header {
-    border-bottom: 1px solid black;
-    padding: 3%;
-}
-
-header a:link {
-    text-decoration: none;
+    border-bottom: 1px solid #d3cfcf;
+    padding: 20px;
 }
 
 /* TEXT */
@@ -107,8 +103,8 @@ p {
     margin: 1%;
 }
 
-h1, h2, h3 {
-    display: inline;
+li {
+    padding: 5px;
 }
 
 /* FLEX SMALLER SCREENS */
@@ -131,14 +127,6 @@ h1, h2, h3 {
         width: 90%;
     }
 
-    footer {
-        margin: 10% 0 0 0;
-    }
-
-    footer .row {
-        flex-flow: row;
-        flex-direction: row;
-    }
 }
 
 /* FLEX MEDIUM SCREENS */
@@ -160,14 +148,5 @@ h1, h2, h3 {
     .column {
         margin: 20px;
         width: 90%;
-    }
-
-    footer {
-        margin: 10% 0 0 0;
-    }
-
-    footer .row, header .row {
-        flex-flow: row;
-        flex-direction: row;
     }
 }
