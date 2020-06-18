@@ -1,26 +1,63 @@
-/*
-
-Gemaakt door: Wessel Poelman
-Bugs of opmerkingen, mail gerust naar contact@wesselpoelman.nl
-
-*/
+:root {
+    --text-color: #d3cfcf;
+    --background-color:#383838;
+    --header-bottom-color: #d3cfcf;
+    --link-color: #F89554;
+    --link-text-color: #b0b7c5;
+    --link-hover-color: #5E401E;
+    --entry-background-color: #1b1b1b;
+    --entry-border-color: #458588;
+    --entry-date-color: #ebdbb2;
+}
 
 /* BODY AND LINKS */
 body {
     margin: 0;
     font-family: "Source Sans Pro", sans-serif;
-    background-color: #383838;
+    background-color: var(--background-color);
     font-size: 16pt;
-    color: #d3cfcf;
+    color: var(--text-color);
 }
 
 a:link, a:visited, a:active {
-    text-decoration: underline #F89554;
-    color: #b0b7c5;
+    text-decoration: underline var(--link-color);
+    color: var(--link-text-color);
 }
 
 a:hover {
-    background-color: rgb(94, 64, 30);
+    background-color: var(--link-hover-color);
+}
+
+.entry {
+    align-self: center;
+    max-width: 900px;
+    padding: 10px;
+    border-radius: 0 5px 18px 0;
+    margin-bottom: 50px;
+    background: var(--entry-background-color);
+    border: 1px solid var(--entry-border-color);
+    border-left: 10px solid var(--entry-border-color);
+}
+
+.entry h2 {
+    margin: 5px auto 2px auto;
+}
+
+.entry small {
+    color: var(--entry-date-color);
+}
+
+footer strong {
+    font-weight: bold;
+}
+
+dt {
+    font-weight: bold;
+    margin-top: 2em;
+}
+
+dt img {
+    height: 1em;
 }
 
 /* FLEX BIGGER SCREENS */
@@ -39,8 +76,9 @@ a:hover {
 }
 
 .column {
-    margin: 10px;
-    padding: 1%;
+    display: flex;
+    flex-flow: column;
+    flex-direction: column;
 }
 
 /* BUILDING BLOCKS */
@@ -94,8 +132,9 @@ a:hover {
 
 /* HEADER */
 header {
-    border-bottom: 1px solid #d3cfcf;
-    padding: 20px;
+    border-bottom: 1px solid var(--header-bottom-color);
+    padding: 10px 10px 20px;
+    margin-bottom: 20px;
 }
 
 /* TEXT */
@@ -123,7 +162,7 @@ li {
     }
 
     .column {
-        margin: 0;
+        margin: 10px;
         width: 90%;
     }
 
