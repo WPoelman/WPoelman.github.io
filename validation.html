@@ -98,6 +98,15 @@
                 const res = await response.json();
 
                 id = res.id;
+
+                // This is very stupid and simple xss checking, but
+                // using innerHtml from a different source always causes
+                // itching in hard to reach places.
+                if (res.with_explanation.includes('<script')) {
+                    fetchNew();
+                    return;
+                };
+
                 textWith.innerHTML = res.with_explanation;
                 textWithout.innerText = res.without_explanation;
 
