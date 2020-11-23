@@ -49,7 +49,7 @@
                     </div>
 
                     <div class="column col-6">
-                        <h5>Met uitleg</h5> 
+                        <h5>Met uitleg</h5>
                         <p id="text-with" style="padding: 10px; border: thin white solid;"></p>
                     </div>
                 </div>
@@ -78,8 +78,16 @@
             </div>
         </div>
 
+        <style>
+            .annotation {
+                background-color: green;
+            }
+        </style>
         <script>
             const API = 'https://wpoelman.pythonanywhere.com/validation';
+            // Use this for locally testing api.py
+            // const API = 'http://127.0.0.1:5000/validation';
+
             let id = null;
             let doingRequest = false;
 
@@ -90,7 +98,7 @@
                 const res = await response.json();
 
                 id = res.id;
-                textWith.innerText = res.with_explanation;
+                textWith.innerHTML = res.with_explanation;
                 textWithout.innerText = res.without_explanation;
 
                 doingRequest = false;
@@ -109,7 +117,7 @@
                 });
 
                 fetchNew();
-            }
+            };
 
             const getNew = document.getElementById('get-new');
 
