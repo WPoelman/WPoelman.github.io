@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Wessel Poelman</title>
+    <link>https://wesselpoelman.nl/post/</link>
+    <description>Recent content in Posts on Wessel Poelman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Feb 2024 15:39:33 +0100</lastBuildDate><atom:link href="https://wesselpoelman.nl/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Egregious Acronyms in Research</title>
+      <link>https://wesselpoelman.nl/post/2024/02/06/egregious-acronyms-in-research/</link>
+      <pubDate>Tue, 06 Feb 2024 15:39:33 +0100</pubDate>
+      
+      <guid>https://wesselpoelman.nl/post/2024/02/06/egregious-acronyms-in-research/</guid>
+      <description>This is a collection of some &amp;lsquo;interesting&amp;rsquo; acronyms used in research that I&amp;rsquo;ve encountered or that people have send to me. Most of these papers I&amp;rsquo;ve not read (and will probably never), it&amp;rsquo;s just about the acronyms (and backronyms). Feel free to send me some samples, I&amp;rsquo;ll decide if they are egregious enough to make the list (with credits of course).
+A next step would be automatic collection of these, but that removes some of the fun of encountering them in the wild.</description>
+    </item>
+    
+  </channel>
+</rss>
