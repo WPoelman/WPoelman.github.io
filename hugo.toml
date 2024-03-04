@@ -1,8 +1,6 @@
 baseURL = 'https://wesselpoelman.nl'
 languageCode = 'en-us'
 title = 'Wessel Poelman'
-theme = 'xmin'
-
 baseurl = "/"
 ignoreFiles = ["_cache$"]
 
@@ -36,3 +34,7 @@ codeFences = false
 [goldmark]
 [renderer]
 unsafe = true
+
+[module]
+[[module.imports]]
+path = "github.com/yihui/hugo-xmin"
