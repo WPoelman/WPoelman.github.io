@@ -1,0 +1,38 @@
+baseURL = 'https://wesselpoelman.nl'
+languageCode = 'en-us'
+title = 'Wessel Poelman'
+theme = 'xmin'
+
+baseurl = "/"
+ignoreFiles = ["_cache$"]
+
+[permalinks]
+post = "/post/:year/:month/:day/:slug/"
+
+[menu]
+[[menu.main]]
+name = "Home"
+url = ""
+weight = 1
+[[menu.main]]
+name = "Posts"
+url = "post/"
+weight = 2
+# [[menu.main]]
+# name = "Categories"
+# url = "categories/"
+# weight = 3
+# [[menu.main]]
+# name = "Tags"
+# url = "tags/"
+# weight = 4
+# [[menu.main]]
+# name = "Subscribe"
+# url = "index.xml"
+
+[markup]
+[highlight]
+codeFences = false
+[goldmark]
+[renderer]
+unsafe = true

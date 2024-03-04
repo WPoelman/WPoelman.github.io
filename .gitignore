@@ -1,5 +1,3 @@
-.idea
-.idea/*
-blog/.drafts/*
-blog/.drafts
-lb
+content/drafts
+public/
+.hugo_build.lock
