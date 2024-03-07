@@ -11,7 +11,7 @@ Feel free to send me some samples, I'll decide if they are egregious enough to m
 A next step would be automatic collection of these, but that removes some of the fun of encountering them in the wild.
 I'm leaving that be for now.
 
-Last updated: March 6, 2024.
+Last updated: March 7, 2024.
 
 ## The list (alphabetical order)
 
@@ -23,6 +23,7 @@ Last updated: March 6, 2024.
 * [EPIC: Multi-Perspective Annotation of a Corpus of Irony](https://aclanthology.org/2023.acl-long.774) (Esther)
 * [GENOME: GenerativE Neuro-symbOlic visual reasoning by growing and reusing ModulEs](http://arxiv.org/abs/2311.04901) (Miryam)
 * [GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs](http://arxiv.org/abs/2310.15109)
+* [PASTA: A Dataset for Modeling PArticipant STAtes in Narratives](https://aclanthology.org/2023.tacl-1.73.pdf)
 
 ### Honorable mentions (non-research)
 
