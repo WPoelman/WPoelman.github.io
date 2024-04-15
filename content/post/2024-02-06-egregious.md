@@ -11,7 +11,7 @@ Feel free to send me some samples, I'll decide if they are egregious enough to m
 A next step would be automatic collection of these, but that removes some of the fun of encountering them in the wild.
 I'm leaving that be for now.
 
-Last updated: March 7, 2024.
+Last updated: April 15, 2024.
 
 ## The list (alphabetical order)
 
@@ -19,11 +19,13 @@ Last updated: March 7, 2024.
 * [Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance](http://arxiv.org/abs/2305.16314) 
 * [CAPIVARA: Cost-Efficient Approach for Improving Multilingual CLIP Performance on Low-Resource Languages](http://arxiv.org/abs/2310.13683)
 * [CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration](http://arxiv.org/abs/2309.07822) (Esther)
+* [COCKATIEL: COntinuous Concept ranKed ATtribution with Interpretable ELements for explaining neural net classifiers on NLP tasks](http://arxiv.org/abs/2305.06754)
 * [DRAGON: Deep Bidirectional Language-Knowledge Graph Pretraining](https://knowledge-nlp.github.io/aaai2023/papers/001-Dragon-oral.pdf)
 * [EPIC: Multi-Perspective Annotation of a Corpus of Irony](https://aclanthology.org/2023.acl-long.774) (Esther)
 * [GENOME: GenerativE Neuro-symbOlic visual reasoning by growing and reusing ModulEs](http://arxiv.org/abs/2311.04901) (Miryam)
 * [GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs](http://arxiv.org/abs/2310.15109)
 * [PASTA: A Dataset for Modeling PArticipant STAtes in Narratives](https://aclanthology.org/2023.tacl-1.73.pdf)
+* [PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models](http://arxiv.org/abs/2404.02948) (Artur)
 
 ### Honorable mentions (non-research)
 
