@@ -11,7 +11,7 @@ Feel free to send me some samples, I'll decide if they are egregious enough to m
 A next step would be automatic collection of these, but that removes some of the fun of encountering them in the wild.
 I'm leaving that be for now.
 
-Last updated: April 15, 2024.
+Last updated: April 23, 2024.
 
 ## The list (alphabetical order)
 
@@ -26,6 +26,7 @@ Last updated: April 15, 2024.
 * [GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs](http://arxiv.org/abs/2310.15109)
 * [PASTA: A Dataset for Modeling PArticipant STAtes in Narratives](https://aclanthology.org/2023.tacl-1.73.pdf)
 * [PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models](http://arxiv.org/abs/2404.02948) (Artur)
+* [YARN (laYered meAning RepresentatioN) is All You Knit: Encoding Multiple Semantic Phenomena with Layers](https://hal.science/hal-04551796/) (Miryam)
 
 ### Honorable mentions (non-research)
 
