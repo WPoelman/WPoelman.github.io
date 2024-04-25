@@ -4,7 +4,7 @@ date: 2024-02-06T15:39:33+01:00
 author: 'Wessel Poelman'
 ---
 
-This is a collection of some 'interesting' acronyms used in research that I've encountered or that people have send to me.
+This is a collection of some 'interesting' acronyms used in research that I've encountered or that people have sent me.
 I've not read most of these papers, it's just about the acronyms and [backronyms](https://en.wikipedia.org/wiki/Backronym).
 Feel free to send me some samples, I'll decide if they are egregious enough to make the list (with credits of course).
 
