@@ -11,7 +11,7 @@ Feel free to send me some samples, I'll decide if they are egregious enough to m
 A next step would be automatic collection of these, but that removes some of the fun of encountering them in the wild.
 I'm leaving that be for now.
 
-Last updated: April 23, 2024.
+Last updated: May 6, 2024.
 
 ## The list (alphabetical order)
 
@@ -31,3 +31,4 @@ Last updated: April 23, 2024.
 ### Honorable mentions (non-research)
 
 * [STARLIGHT: Sustainable Autonomy and Resilience for LEAs using AI against High priority Threats](https://cordis.europa.eu/project/id/101021797)
+* [VINEX: Vierde Nota Ruimtelijke Ordening Extra](https://nl.wikipedia.org/wiki/Vinex) (Esther)
