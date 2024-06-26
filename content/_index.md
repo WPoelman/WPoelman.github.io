@@ -21,7 +21,7 @@ Let me know if you've encountered one yourself, I'll add it to the list if it's 
 # Publications
 ## In progress
 * Esther Ploeger\*, **Wessel Poelman**\*, Miryam de Lhoneux & Johannes Bjerva (2024). What is 'Typological Diversity' in NLP? *Preprint. Under review.* [[pdf]](https://arxiv.org/abs/2402.04222) [[code]](https://github.com/WPoelman/typ-div)
-
+* Phillip Schneider, **Wessel Poelman**, Michael Rovatsos & Florian Matthes (2024). Engineering Conversational Search Systems: A Review of Applications, Architectures, and Functional Components. *NLP4ConvAI*. *To appear.*
 
 ### 2024
 * **Wessel Poelman***, Esther Ploeger*, Miryam de Lhoneux & Johannes Bjerva (2024). A call for consistency in reporting typological diversity. *SIGTYP.* [[pdf]](https://aclanthology.org/2024.sigtyp-1.10/) [[poster]](data/humanclaim_2024_poster.pdf) [[slides]](data/sigtyp_2024_slides.pdf)
