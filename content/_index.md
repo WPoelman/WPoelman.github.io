@@ -4,7 +4,7 @@ title: Home
 
 # Wessel Poelman
 
-I work at the [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html) as a PhD student in the [LAGoM](https://www.lagom.cs.kuleuven.be/) group from [Miryam de Lhoneux](https://people.cs.kuleuven.be/~miryam.delhoneux/).
+I work at the [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html) as a PhD student in the [LAGoM](https://www.lagom.cs.kuleuven.be/) group of [Miryam de Lhoneux](https://people.cs.kuleuven.be/~miryam.delhoneux/).
 My research focuses on multilingual natural language processing, in particular: incorporating under-used resources, evaluation and sampling.
 
 Before coming to Belgium, I worked at the [Technical University of Munich](https://www.tum.de/en/) in Germany for half a year as a research associate (Wissenschaftlicher Mitarbeiter).
@@ -20,7 +20,8 @@ Let me know if you've encountered one yourself, I'll add it to the list if it's 
 
 # Publications
 ## In progress
-* Esther Ploeger\*, **Wessel Poelman**\*, Miryam de Lhoneux & Johannes Bjerva (2024). What is 'Typological Diversity' in NLP? *Preprint. Under review.* [[pdf]](https://arxiv.org/abs/2402.04222) [[code]](https://github.com/WPoelman/typ-div)
+* Esther Ploeger, **Wessel Poelman**, Andreas Holck Høeg-Petersen, Anders Schlichtkrull, Miryam de Lhoneux & Johannes Bjerva (2024). A Principled Framework for Evaluating on Typologically Diverse Languages. *Preprint. Under review.* [[pdf]](https://arxiv.org/abs/2407.05022) [[code]](https://github.com/esther2000/typdiv-sampling)
+* Esther Ploeger\*, **Wessel Poelman**\*, Miryam de Lhoneux & Johannes Bjerva (2024). What is "Typological Diversity" in NLP? *Preprint. Under review.* [[pdf]](https://arxiv.org/abs/2402.04222) [[code]](https://github.com/WPoelman/typ-div)
 
 ### 2024
 * Phillip Schneider, **Wessel Poelman**, Michael Rovatsos & Florian Matthes (2024). Engineering Conversational Search Systems: A Review of Applications, Architectures, and Functional Components. *NLP4ConvAI @ ACL*. [[pdf]](https://arxiv.org/abs/2407.00997)
