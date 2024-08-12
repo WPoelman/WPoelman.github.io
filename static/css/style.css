@@ -88,6 +88,7 @@ video {
 
 main {
   hyphens: auto;
+  padding-bottom: 20em;
 }
 
 blockquote {
@@ -142,4 +143,21 @@ ul {
 
 ul li {
   margin-bottom: 1em;
+}
+
+.book-list {
+  padding: 0, 2em;
+}
+
+.review {
+  background-color: var(--off-white-light);
+  border-left: 2px solid var(--secondary-color);
+  font-style: italic;
+  padding: 0.5em;
+  margin-left: 1em;
+}
+
+.pub-list ul {
+  padding: 0;
+  line-height: 1.5em;
 }

@@ -1,0 +1,49 @@
+{{ $allData := $.Site.Data.pubs.references }}
+
+{{ $data := slice }}
+{{ range $allData }}
+{{ $item := . }}
+{{ $issued := index .issued 0 }}
+{{ $newItem := dict "date" (printf "%s-%s-$s" $issued.year $issued.month $issued.day ) }}
+{{ $data = $data | append (merge $item $newItem) }}
+{{ end }}
+
+{{ $preprint := slice}}
+{{ $journals := slice}}
+{{ $conferences := slice }}
+{{ $workshops := slice }}
+{{ $theses := slice }}
+
+{{ range $data }}
+{{ if eq .type "pp" }}
+{{ $preprint = $preprint | append . }}
+{{ end }}
+{{ if eq .type "article-journal" }}
+{{ $journals = $journals | append . }}
+{{ end }}
+{{ if eq .type "paper-conference" }}
+{{ $conferences = $conferences | append . }}
+{{ end }}
+{{ if eq .type "workshop" }}
+{{ $workshops = $workshops | append . }}
+{{ end }}
+{{ if eq .type "thesis" }}
+{{ $theses = $theses | append . }}
+{{ end }}
+{{ end }}
+
+{{ $collection := slice
+(dict "name" "Work in Progress" "papers" $preprint)
+(dict "name" "Journal Papers" "papers" $journals)
+(dict "name" "Conference Papers" "papers" $conferences)
+(dict "name" "Workshop Papers" "papers" $workshops)
+(dict "name" "Theses" "papers" $theses) }}
+
+{{ range $collection }}
+<h3>{{ .name }}</h3>
+<ul class="pub-list">
+    {{ range sort .papers "date" "desc" }}
+    {{ partial "pub" . }}
+    {{ end }}
+</ul>
+{{ end }}

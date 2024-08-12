@@ -1,0 +1,29 @@
+<li>
+    <ul>
+        {{ $date := index (index .issued 0) "year"}}
+        {{$last := sub (len .author) 1}}
+        {{ if isset . "URL" }}
+        <li><a href="{{ .URL}}">{{ .title}}</a> ({{ $date }})</li>
+        {{ else }}
+        <li>{{ .title}}</i> ({{ $date }})
+            {{end}}
+        <li>
+            {{ range $k, $v := .author }}
+            {{ if strings.Contains $v.family "Poelman" }}
+            <strong>{{ $v.given }} {{ $v.family }}</strong>{{ else }}
+            {{ $v.given }} {{ index $v "non-dropping-particle" }} {{ $v.family }}{{ end }}
+            {{- if ne $k $last -}},{{- end -}}
+            {{- end -}}
+        </li>
+        <li> <i>{{ index . "container-title"}}</i> </li>
+        {{- if isset . "note" -}}
+        {{ range $idx, $item := ( split (index . "note") "\n")}}
+        {{ $items := (split $item ": ") }}
+        {{- if strings.Contains (index $items 1) "https" -}}
+        <a href="{{ index $items 1 }}">[{{ index $items 0 }}]</a>
+        {{ end }}
+        {{ end }}
+        {{- end -}}
+        <hr />
+    </ul>
+</li>

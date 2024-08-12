@@ -1,0 +1,23 @@
+{{ $allData := $.Site.Data.pubs.references }}
+
+{{ $data := slice }}
+{{ range $allData }}
+{{ $item := . }}
+{{ $issued := index .issued 0 }}
+{{ $newItem := dict "date" (printf "%s-%s-$s" $issued.year $issued.month $issued.day ) }}
+{{ $data = $data | append (merge $item $newItem) }}
+{{ end }}
+
+{{ $selected := slice}}
+
+{{ range $data }}
+{{ if strings.Contains .note "selected: true" }}
+{{ $selected = $selected | append . }}
+{{ end }}
+{{ end }}
+
+{{ range sort $selected "date" "desc" }}
+<ul class="pub-list">
+    {{ partial "pub" . }}
+</ul>
+{{ end }}
