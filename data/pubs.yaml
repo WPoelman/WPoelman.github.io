@@ -410,44 +410,6 @@ references:
   URL: https://clinjournal.org/clinj/article/view/182
   volume: '13'
 
-- id: schneider2024engineering
-  abstract: >-
-    Conversational search systems enable information retrieval via natural
-    language interactions, with the goal of maximizing users’ information gain
-    over multiple dialogue turns. The increasing prevalence of conversational
-    interfaces adopting this search paradigm challenges traditional information
-    retrieval approaches, stressing the importance of better understanding the
-    engineering process of developing these systems. We undertook a systematic
-    literature review to investigate the links between theoretical studies and
-    technical implementations of conversational search systems. Our review
-    identifies real-world application scenarios, system architectures, and
-    functional components. We consolidate our findings by presenting a layered
-    architecture framework and explaining the core functions of conversational
-    search systems. Furthermore, we discuss our findings in light of the rapid
-    progress in large language models, discussing their capabilities,
-    limitations, and future research directions.
-  author:
-    - family: Schneider
-      given: Phillip
-    - family: Poelman
-      given: Wessel
-    - family: Rovatsos
-      given: Michael
-    - family: Matthes
-      given: Florian
-  citation-key: schneider2024engineering
-  container-title: Workshop on NLP for Conversational AI (NLP4ConvAI 2024) @ ACL
-  container-title-short: Workshop NLP Conversational AI NLP4ConvAI 2024 ACL
-  issued:
-    - year: 2024
-  language: en
-  source: Zotero
-  title: >-
-    Engineering Conversational Search Systems: A Review of Applications,
-    Architectures, and Functional Components
-  type: workshop
-  URL: http://arxiv.org/abs/2407.00997
-
 - id: ploeger2024principled
   abstract: >-
     Beyond individual languages, multilingual natural language processing (NLP)
@@ -497,4 +459,73 @@ references:
   title: A Principled Framework for Evaluating on Typologically Diverse Languages
   type: pp
   URL: http://arxiv.org/abs/2407.05022
+
+- id: schneider2024engineering
+  abstract: >-
+    Conversational search systems enable information retrieval via natural
+    language interactions, with the goal of maximizing users' information gain
+    over multiple dialogue turns. The increasing prevalence of conversational
+    interfaces adopting this search paradigm challenges traditional information
+    retrieval approaches, stressing the importance of better understanding the
+    engineering process of developing these systems. We undertook a systematic
+    literature review to investigate the links between theoretical studies and
+    technical implementations of conversational search systems. Our review
+    identifies real-world application scenarios, system architectures, and
+    functional components. We consolidate our results by presenting a layered
+    architecture framework and explaining the core functions of conversational
+    search systems. Furthermore, we reflect on our findings in light of the
+    rapid progress in large language models, discussing their capabilities,
+    limitations, and directions for future research.
+  accessed:
+    - year: 2024
+      month: 8
+      day: 16
+  author:
+    - family: Schneider
+      given: Phillip
+    - family: Poelman
+      given: Wessel
+    - family: Rovatsos
+      given: Michael
+    - family: Matthes
+      given: Florian
+  citation-key: schneider2024engineering
+  container-title: Workshop on NLP for Conversational AI (NLP4ConvAI 2024) @ ACL
+  container-title-short: Workshop NLP Conversational AI NLP4ConvAI 2024 ACL
+  editor:
+    - family: Nouri
+      given: Elnaz
+    - family: Rastogi
+      given: Abhinav
+    - family: Spithourakis
+      given: Georgios
+    - family: Liu
+      given: Bing
+    - family: Chen
+      given: Yun-Nung
+    - family: Li
+      given: Yu
+    - family: Albalak
+      given: Alon
+    - family: Wakaki
+      given: Hiromi
+    - family: Papangelis
+      given: Alexandros
+  event-place: Bangkok, Thailand
+  issued:
+    - year: 2024
+      month: 8
+  note: |-
+    slides: https://wesselpoelman.nl/data/nlp4convai_2024_slides.pdf
+    award: Outstanding Paper Award
+  page: 73–88
+  publisher: Association for Computational Linguistics
+  publisher-place: Bangkok, Thailand
+  source: ACLWeb
+  title: >-
+    Engineering Conversational Search Systems: A Review of Applications,
+    Architectures, and Functional Components
+  title-short: Engineering Conversational Search Systems
+  type: workshop
+  URL: https://aclanthology.org/2024.nlp4convai-1.5
 ...

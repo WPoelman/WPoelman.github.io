@@ -1,3 +1,12 @@
+{{ $award := "" }}
+{{ $extra := ( split (index . "note") "\n")}}
+{{ range $idx, $item := $extra}}
+{{ $items := (split $item ": ") }}
+{{ if strings.Contains (index $items 0) "award" }}
+{{ $award = index $items 1}}
+{{ end }}
+{{ end }}
+
 <li>
     <ul>
         {{ $date := index (index .issued 0) "year"}}
@@ -15,9 +24,12 @@
             {{- if ne $k $last -}},{{- end -}}
             {{- end -}}
         </li>
-        <li> <i>{{ index . "container-title"}}</i> </li>
+        <li> <i>{{ index . "container-title"}}</i></li>
+        {{ if $award }}
+        <li><b>{{ $award }}</b></li>
+        {{ end }}
         {{- if isset . "note" -}}
-        {{ range $idx, $item := ( split (index . "note") "\n")}}
+        {{ range $idx, $item := $extra}}
         {{ $items := (split $item ": ") }}
         {{- if strings.Contains (index $items 1) "https" -}}
         <a href="{{ index $items 1 }}">[{{ index $items 0 }}]</a>
