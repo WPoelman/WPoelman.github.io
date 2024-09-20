@@ -1,110 +1,5 @@
 ---
 references:
-- id: poelman2022transparent
-  abstract: >-
-    Even though many recent semantic parsers are based on deep learning methods,
-    we should not forget that rule-based alternatives might offer advantages
-    over neural approaches with respect to transparency, portability, and
-    explainability. Taking advantage of existing off-the-shelf Universal
-    Dependency parsers, we present a method that maps a syntactic dependency
-    tree to a formal meaning representation based on Discourse Representation
-    Theory. Rather than using lambda calculus to manage variable bindings, our
-    approach is novel in that it consists of using a series of graph
-    transformations. The resulting UD semantic parser shows good performance for
-    English, German, Italian and Dutch, with F-scores over 75%, outperforming a
-    neural semantic parser for the lower-resourced languages. Unlike neural
-    semantic parsers, our UD semantic parser does not hallucinate output, is
-    relatively easy to port to other languages, and is completely transparent.
-  accessed:
-    - year: 2023
-      month: 6
-      day: 1
-  author:
-    - family: Poelman
-      given: Wessel
-    - family: Noord
-      given: Rik
-      non-dropping-particle: van
-    - family: Bos
-      given: Johan
-  citation-key: poelman2022transparent
-  container-title: International Conference on Computational Linguistics (COLING)
-  container-title-short: Int. Conf. Comput. Linguist. COLING
-  event-place: Gyeongju, Republic of Korea
-  event-title: COLING 2022
-  issued:
-    - year: 2022
-      month: 10
-  note: |-
-    slides: https://wesselpoelman.nl/files/coling_2022_slides.pdf
-    poster: https://wesselpoelman.nl/files/coling_2022_poster.pdf
-    repo: https://github.com/WPoelman/ud-boxer
-    selected: true
-  page: 4186–4192
-  publisher: International Committee on Computational Linguistics
-  publisher-place: Gyeongju, Republic of Korea
-  source: ACLWeb
-  title: >-
-    Transparent Semantic Parsing with Universal Dependencies Using Graph
-    Transformations
-  type: paper-conference
-  URL: https://aclanthology.org/2022.coling-1.367
-
-- id: poelman2022languageneutral
-  author:
-    - family: Poelman
-      given: Wessel
-  citation-key: poelman2022languageneutral
-  genre: MSc Thesis
-  issued:
-    - year: 2022
-  language: en
-  note: |-
-    repo: https://github.com/WPoelman/ud-boxer
-    slides: https://wesselpoelman.nl/data/coling_2022_slides.pdf
-    poster: https://wesselpoelman.nl/data/coling_2022_poster.pdf
-  publisher: University of Groningen
-  source: Zotero
-  title: >-
-    Language-neutral Semantic Parsing using Graph Transformations on Universal
-    Dependencies
-  type: thesis
-  URL: >-
-    https://arts.studenttheses.ub.rug.nl/31168/1/master_thesis_wessel_poelman.pdf
-
-- id: poelman2020context
-  author:
-    - family: Poelman
-      given: Wessel
-  citation-key: poelman2020context
-  genre: BSc Thesis
-  issued:
-    - year: 2020
-  language: en
-  note: 'repo: https://github.com/WPoelman/thesis_is'
-  publisher: University of Groningen
-  source: Zotero
-  title: >-
-    Context & Common Knowledge: Using an entity linker and knowledge base to
-    detect hard entities in need of an explanation
-  type: thesis
-  URL: https://wesselpoelman.nl/files/poelman_thesis_bis.pdf
-
-- id: poelman2020privacystatements
-  author:
-    - family: Poelman
-      given: Wessel
-  citation-key: poelman2020privacystatements
-  genre: BA Thesis
-  issued:
-    - year: 2020
-  language: nl
-  publisher: University of Groningen
-  source: Zotero
-  title: Privacystatements van zoekmachinebedrijven onder de loep
-  type: thesis
-  URL: https://wesselpoelman.nl/files/poelman_thesis_ciw.pdf
-
 - id: dhaini2023detecting
   abstract: >-
     While recent advancements in the capabilities and widespread accessibility
@@ -143,201 +38,6 @@ references:
   title: 'Detecting ChatGPT: A Survey of the State of Detecting ChatGPT-Generated Text'
   type: workshop
   URL: https://aclanthology.org/2023.ranlp-stud.1/
-
-- id: ploeger*2024what
-  abstract: >-
-    The NLP research community has devoted increased attention to languages
-    beyond English, resulting in considerable improvements for multilingual NLP.
-    However, these improvements only apply to a small subset of the world's
-    languages. Aiming to extend this, an increasing number of papers aspires to
-    enhance generalizable multilingual performance across languages. To this
-    end, linguistic typology is commonly used to motivate language selection, on
-    the basis that a broad typological sample ought to imply generalization
-    across a broad range of languages. These selections are often described as
-    being 'typologically diverse'. In this work, we systematically investigate
-    NLP research that includes claims regarding 'typological diversity'. We find
-    there are no set definitions or criteria for such claims. We introduce
-    metrics to approximate the diversity of language selection along several
-    axes and find that the results vary considerably across papers. Furthermore,
-    we show that skewed language selection can lead to overestimated
-    multilingual performance. We recommend future work to include an
-    operationalization of 'typological diversity' that empirically justifies the
-    diversity of language samples.
-  accessed:
-    - year: 2024
-      month: 2
-      day: 7
-  author:
-    - family: Ploeger*
-      given: Esther
-    - family: Poelman*
-      given: Wessel
-    - family: Lhoneux
-      given: Miryam
-      non-dropping-particle: de
-    - family: Bjerva
-      given: Johannes
-  citation-key: ploeger*2024what
-  issued:
-    - year: 2024
-      month: 2
-      day: 6
-  note: |-
-    repo: https://github.com/WPoelman/typ-div
-    selected: true
-  publisher: arXiv
-  source: arXiv.org
-  title: What is "Typological Diversity" in NLP?
-  type: pp
-  URL: http://arxiv.org/abs/2402.04222
-
-- id: poelman*2024call
-  abstract: >-
-    In order to draw generalizable conclusions about the performance of
-    multilingual models across languages, it is important to evaluate on a set
-    of languages that captures linguistic diversity.Linguistic typology is
-    increasingly used to justify language selection, inspired by language
-    sampling in linguistics.However, justifications for `typological diversity'
-    exhibit great variation, as there seems to be no set definition, methodology
-    or consistent link to linguistic typology.In this work, we provide a
-    systematic insight into how previous work in the ACL Anthology uses the term
-    `typological diversity'.Our two main findings are: 1) what is meant by
-    typologically diverse language selection is not consistent and 2) the actual
-    typological diversity of the language sets in these papers varies greatly.We
-    argue that, when making claims about `typological diversity', an
-    operationalization of this should be included.A systematic approach that
-    quantifies this claim, also with respect to the number of languages used,
-    would be even better.
-  accessed:
-    - year: 2024
-      month: 4
-      day: 22
-  author:
-    - family: Poelman*
-      given: Wessel
-    - family: Ploeger*
-      given: Esther
-    - family: Lhoneux
-      given: Miryam
-      non-dropping-particle: de
-    - family: Bjerva
-      given: Johannes
-  citation-key: poelman*2024call
-  container-title: >-
-    Workshop on Research in Computational Linguistic Typology and Multilingual
-    NLP (SIGTYP) @ EACL
-  container-title-short: Workshop Res. Comput. Linguist. Typology Multiling. NLP SIGTYP EACL
-  editor:
-    - family: Hahn
-      given: Michael
-    - family: Sorokin
-      given: Alexey
-    - family: Kumar
-      given: Ritesh
-    - family: Shcherbakov
-      given: Andreas
-    - family: Otmakhova
-      given: Yulia
-    - family: Yang
-      given: Jinrui
-    - family: Serikov
-      given: Oleg
-    - family: Rani
-      given: Priya
-    - family: Ponti
-      given: Edoardo M.
-    - family: Muradoğlu
-      given: Saliha
-    - family: Gao
-      given: Rena
-    - family: Cotterell
-      given: Ryan
-    - family: Vylomova
-      given: Ekaterina
-  event-place: St. Julian's, Malta
-  issued:
-    - year: 2024
-      month: 3
-  note: |-
-    poster: https://wesselpoelman.nl/data/humanclaim_2024_poster.pdf
-    slides: https://wesselpoelman.nl/data/sigtyp_2024_slides.pdf
-  page: 75–77
-  publisher: Association for Computational Linguistics
-  publisher-place: St. Julian's, Malta
-  source: ACLWeb
-  title: A Call for Consistency in Reporting Typological Diversity
-  type: workshop
-  URL: https://aclanthology.org/2024.sigtyp-1.10
-
-- id: vandenberg2022rug1pegasussers
-  abstract: >-
-    This paper describes our system created for the SemEval 2022 Task 3:
-    Presupposed Taxonomies - Evaluating Neural-network Semantics. This task is
-    focused on correctly recognizing taxonomic word relations in English, French
-    and Italian. We developed various datageneration techniques that expand the
-    originally provided train set and show that all methods increase the
-    performance of modelstrained on these expanded datasets. Our final system
-    outperformed the baseline system from the task organizers by achieving an
-    average macro F1 score of 79.6 on all languages, compared to the baseline's
-    67.4.
-  accessed:
-    - year: 2024
-      month: 5
-      day: 3
-  author:
-    - family: Berg
-      given: Frank
-      non-dropping-particle: van den
-    - family: Danoe
-      given: Gijs
-    - family: Ploeger
-      given: Esther
-    - family: Poelman
-      given: Wessel
-    - family: Edman
-      given: Lukas
-    - family: Caselli
-      given: Tommaso
-  citation-key: vandenberg2022rug1pegasussers
-  container-title: International Workshop on Semantic Evaluation (SemEval-2022) @ NAACL
-  container-title-short: Int. Workshop Semantic Eval. SemEval-2022 NAACL
-  DOI: 10.18653/v1/2022.semeval-1.31
-  editor:
-    - family: Emerson
-      given: Guy
-    - family: Schluter
-      given: Natalie
-    - family: Stanovsky
-      given: Gabriel
-    - family: Kumar
-      given: Ritesh
-    - family: Palmer
-      given: Alexis
-    - family: Schneider
-      given: Nathan
-    - family: Singh
-      given: Siddharth
-    - family: Ratan
-      given: Shyam
-  event-place: Seattle, United States
-  event-title: SemEval 2022
-  issued:
-    - year: 2022
-      month: 7
-  note: |-
-    repo: https://github.com/WPoelman/shared-task
-    poster: https://wesselpoelman.nl/data/semeval_2022_poster.pdf
-    slides: https://wesselpoelman.nl/data/semeval_2022_slides.pdf
-  page: 247–254
-  publisher: Association for Computational Linguistics
-  publisher-place: Seattle, United States
-  source: ACLWeb
-  title: >-
-    RUG-1-Pegasussers at SemEval-2022 Task 3: Data Generation Methods to Improve
-    Recognizing Appropriate Taxonomic Word Relations
-  title-short: RUG-1-Pegasussers at SemEval-2022 Task 3
-  type: workshop
-  URL: https://aclanthology.org/2022.semeval-1.31
 
 - id: fivez2024clin33
   abstract: >-
@@ -460,6 +160,236 @@ references:
   type: pp
   URL: http://arxiv.org/abs/2407.05022
 
+- id: ploeger2024what
+  abstract: >-
+    The NLP research community has devoted increased attention to languages
+    beyond English, resulting in considerable improvements for multilingual NLP.
+    However, these improvements only apply to a small subset of the world's
+    languages. Aiming to extend this, an increasing number of papers aspires to
+    enhance generalizable multilingual performance across languages. To this
+    end, linguistic typology is commonly used to motivate language selection, on
+    the basis that a broad typological sample ought to imply generalization
+    across a broad range of languages. These selections are often described as
+    being 'typologically diverse'. In this work, we systematically investigate
+    NLP research that includes claims regarding 'typological diversity'. We find
+    there are no set definitions or criteria for such claims. We introduce
+    metrics to approximate the diversity of language selection along several
+    axes and find that the results vary considerably across papers. Furthermore,
+    we show that skewed language selection can lead to overestimated
+    multilingual performance. We recommend future work to include an
+    operationalization of 'typological diversity' that empirically justifies the
+    diversity of language samples.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 7
+  author:
+    - family: Ploeger*
+      given: Esther
+    - family: Poelman*
+      given: Wessel
+    - family: Lhoneux
+      given: Miryam
+      non-dropping-particle: de
+    - family: Bjerva
+      given: Johannes
+  citation-key: ploeger2024what
+  issued:
+    - year: 2024
+      month: 2
+      day: 6
+  note: |-
+    repo: https://github.com/WPoelman/typ-div
+    selected: true
+  publisher: arXiv
+  source: arXiv.org
+  title: What is "Typological Diversity" in NLP?
+  type: pp
+  URL: http://arxiv.org/abs/2402.04222
+
+- id: poelman*2024call
+  abstract: >-
+    In order to draw generalizable conclusions about the performance of
+    multilingual models across languages, it is important to evaluate on a set
+    of languages that captures linguistic diversity.Linguistic typology is
+    increasingly used to justify language selection, inspired by language
+    sampling in linguistics.However, justifications for `typological diversity'
+    exhibit great variation, as there seems to be no set definition, methodology
+    or consistent link to linguistic typology.In this work, we provide a
+    systematic insight into how previous work in the ACL Anthology uses the term
+    `typological diversity'.Our two main findings are: 1) what is meant by
+    typologically diverse language selection is not consistent and 2) the actual
+    typological diversity of the language sets in these papers varies greatly.We
+    argue that, when making claims about `typological diversity', an
+    operationalization of this should be included.A systematic approach that
+    quantifies this claim, also with respect to the number of languages used,
+    would be even better.
+  accessed:
+    - year: 2024
+      month: 4
+      day: 22
+  author:
+    - family: Poelman*
+      given: Wessel
+    - family: Ploeger*
+      given: Esther
+    - family: Lhoneux
+      given: Miryam
+      non-dropping-particle: de
+    - family: Bjerva
+      given: Johannes
+  citation-key: poelman*2024call
+  container-title: >-
+    Workshop on Research in Computational Linguistic Typology and Multilingual
+    NLP (SIGTYP) @ EACL
+  container-title-short: Workshop Res. Comput. Linguist. Typology Multiling. NLP SIGTYP EACL
+  editor:
+    - family: Hahn
+      given: Michael
+    - family: Sorokin
+      given: Alexey
+    - family: Kumar
+      given: Ritesh
+    - family: Shcherbakov
+      given: Andreas
+    - family: Otmakhova
+      given: Yulia
+    - family: Yang
+      given: Jinrui
+    - family: Serikov
+      given: Oleg
+    - family: Rani
+      given: Priya
+    - family: Ponti
+      given: Edoardo M.
+    - family: Muradoğlu
+      given: Saliha
+    - family: Gao
+      given: Rena
+    - family: Cotterell
+      given: Ryan
+    - family: Vylomova
+      given: Ekaterina
+  event-place: St. Julian's, Malta
+  issued:
+    - year: 2024
+      month: 3
+  note: |-
+    poster: https://wesselpoelman.nl/data/humanclaim_2024_poster.pdf
+    slides: https://wesselpoelman.nl/data/sigtyp_2024_slides.pdf
+  page: 75–77
+  publisher: Association for Computational Linguistics
+  publisher-place: St. Julian's, Malta
+  source: ACLWeb
+  title: A Call for Consistency in Reporting Typological Diversity
+  type: workshop
+  URL: https://aclanthology.org/2024.sigtyp-1.10
+
+- id: poelman2020context
+  author:
+    - family: Poelman
+      given: Wessel
+  citation-key: poelman2020context
+  genre: BSc Thesis
+  issued:
+    - year: 2020
+  language: en
+  note: 'repo: https://github.com/WPoelman/thesis_is'
+  publisher: University of Groningen
+  source: Zotero
+  title: >-
+    Context & Common Knowledge: Using an entity linker and knowledge base to
+    detect hard entities in need of an explanation
+  type: thesis
+  URL: https://wesselpoelman.nl/files/poelman_thesis_bis.pdf
+
+- id: poelman2020privacystatements
+  author:
+    - family: Poelman
+      given: Wessel
+  citation-key: poelman2020privacystatements
+  genre: BA Thesis
+  issued:
+    - year: 2020
+  language: nl
+  publisher: University of Groningen
+  source: Zotero
+  title: Privacystatements van zoekmachinebedrijven onder de loep
+  type: thesis
+  URL: https://wesselpoelman.nl/files/poelman_thesis_ciw.pdf
+
+- id: poelman2022languageneutral
+  author:
+    - family: Poelman
+      given: Wessel
+  citation-key: poelman2022languageneutral
+  genre: MSc Thesis
+  issued:
+    - year: 2022
+  language: en
+  note: |-
+    repo: https://github.com/WPoelman/ud-boxer
+    slides: https://wesselpoelman.nl/data/coling_2022_slides.pdf
+    poster: https://wesselpoelman.nl/data/coling_2022_poster.pdf
+  publisher: University of Groningen
+  source: Zotero
+  title: >-
+    Language-neutral Semantic Parsing using Graph Transformations on Universal
+    Dependencies
+  type: thesis
+  URL: >-
+    https://arts.studenttheses.ub.rug.nl/31168/1/master_thesis_wessel_poelman.pdf
+
+- id: poelman2022transparent
+  abstract: >-
+    Even though many recent semantic parsers are based on deep learning methods,
+    we should not forget that rule-based alternatives might offer advantages
+    over neural approaches with respect to transparency, portability, and
+    explainability. Taking advantage of existing off-the-shelf Universal
+    Dependency parsers, we present a method that maps a syntactic dependency
+    tree to a formal meaning representation based on Discourse Representation
+    Theory. Rather than using lambda calculus to manage variable bindings, our
+    approach is novel in that it consists of using a series of graph
+    transformations. The resulting UD semantic parser shows good performance for
+    English, German, Italian and Dutch, with F-scores over 75%, outperforming a
+    neural semantic parser for the lower-resourced languages. Unlike neural
+    semantic parsers, our UD semantic parser does not hallucinate output, is
+    relatively easy to port to other languages, and is completely transparent.
+  accessed:
+    - year: 2023
+      month: 6
+      day: 1
+  author:
+    - family: Poelman
+      given: Wessel
+    - family: Noord
+      given: Rik
+      non-dropping-particle: van
+    - family: Bos
+      given: Johan
+  citation-key: poelman2022transparent
+  container-title: International Conference on Computational Linguistics (COLING)
+  container-title-short: Int. Conf. Comput. Linguist. COLING
+  event-place: Gyeongju, Republic of Korea
+  event-title: COLING 2022
+  issued:
+    - year: 2022
+      month: 10
+  note: |-
+    slides: https://wesselpoelman.nl/files/coling_2022_slides.pdf
+    poster: https://wesselpoelman.nl/files/coling_2022_poster.pdf
+    repo: https://github.com/WPoelman/ud-boxer
+    selected: true
+  page: 4186–4192
+  publisher: International Committee on Computational Linguistics
+  publisher-place: Gyeongju, Republic of Korea
+  source: ACLWeb
+  title: >-
+    Transparent Semantic Parsing with Universal Dependencies Using Graph
+    Transformations
+  type: paper-conference
+  URL: https://aclanthology.org/2022.coling-1.367
+
 - id: schneider2024engineering
   abstract: >-
     Conversational search systems enable information retrieval via natural
@@ -528,4 +458,74 @@ references:
   title-short: Engineering Conversational Search Systems
   type: workshop
   URL: https://aclanthology.org/2024.nlp4convai-1.5
+
+- id: vandenberg2022rug1pegasussers
+  abstract: >-
+    This paper describes our system created for the SemEval 2022 Task 3:
+    Presupposed Taxonomies - Evaluating Neural-network Semantics. This task is
+    focused on correctly recognizing taxonomic word relations in English, French
+    and Italian. We developed various datageneration techniques that expand the
+    originally provided train set and show that all methods increase the
+    performance of modelstrained on these expanded datasets. Our final system
+    outperformed the baseline system from the task organizers by achieving an
+    average macro F1 score of 79.6 on all languages, compared to the baseline's
+    67.4.
+  accessed:
+    - year: 2024
+      month: 5
+      day: 3
+  author:
+    - family: Berg
+      given: Frank
+      non-dropping-particle: van den
+    - family: Danoe
+      given: Gijs
+    - family: Ploeger
+      given: Esther
+    - family: Poelman
+      given: Wessel
+    - family: Edman
+      given: Lukas
+    - family: Caselli
+      given: Tommaso
+  citation-key: vandenberg2022rug1pegasussers
+  container-title: International Workshop on Semantic Evaluation (SemEval-2022) @ NAACL
+  container-title-short: Int. Workshop Semantic Eval. SemEval-2022 NAACL
+  DOI: 10.18653/v1/2022.semeval-1.31
+  editor:
+    - family: Emerson
+      given: Guy
+    - family: Schluter
+      given: Natalie
+    - family: Stanovsky
+      given: Gabriel
+    - family: Kumar
+      given: Ritesh
+    - family: Palmer
+      given: Alexis
+    - family: Schneider
+      given: Nathan
+    - family: Singh
+      given: Siddharth
+    - family: Ratan
+      given: Shyam
+  event-place: Seattle, United States
+  event-title: SemEval 2022
+  issued:
+    - year: 2022
+      month: 7
+  note: |-
+    repo: https://github.com/WPoelman/shared-task
+    poster: https://wesselpoelman.nl/data/semeval_2022_poster.pdf
+    slides: https://wesselpoelman.nl/data/semeval_2022_slides.pdf
+  page: 247–254
+  publisher: Association for Computational Linguistics
+  publisher-place: Seattle, United States
+  source: ACLWeb
+  title: >-
+    RUG-1-Pegasussers at SemEval-2022 Task 3: Data Generation Methods to Improve
+    Recognizing Appropriate Taxonomic Word Relations
+  title-short: RUG-1-Pegasussers at SemEval-2022 Task 3
+  type: workshop
+  URL: https://aclanthology.org/2022.semeval-1.31
 ...

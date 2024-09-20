@@ -31,6 +31,11 @@ body {
   border-radius: 5px;
 }
 
+.menu a:hover {
+  text-decoration: underline;
+}
+
+
 .menu,
 .article-meta,
 footer {
@@ -91,6 +96,10 @@ main {
   padding-bottom: 20em;
 }
 
+main p {
+  text-align: justify;
+}
+
 blockquote {
   background: var(--off-white-light);
   border-left: 5px solid var(--off-white);
@@ -120,13 +129,14 @@ tr:nth-child(even) {
 
 
 a {
-  color: var(--primary-color);
-  text-decoration: none;
+  color: black;
+  text-decoration: underline;
+  text-decoration-color: var(--primary-color);
 }
 
 a:focus,
 a:hover {
-  text-decoration: underline;
+  text-decoration-color: var(--secondary-color);
 }
 
 h2,
