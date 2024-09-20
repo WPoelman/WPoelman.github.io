@@ -194,7 +194,8 @@ references:
     - family: Bjerva
       given: Johannes
   citation-key: ploeger2024what
-  event-title: To appear at EMNLP 2024
+  container-title: To appear at Empirical Methods in Natural Language Processing (EMNLP)
+  container-title-short: Appear Empir. Methods Nat. Lang. Process. EMNLP
   issued:
     - year: 2024
       month: 2
