@@ -303,7 +303,7 @@ references:
     Context & Common Knowledge: Using an entity linker and knowledge base to
     detect hard entities in need of an explanation
   type: thesis
-  URL: https://wesselpoelman.nl/files/poelman_thesis_bis.pdf
+  URL: https://wesselpoelman.nl/data/poelman_thesis_bis.pdf
 
 - id: poelman2020privacystatements
   author:
@@ -318,7 +318,7 @@ references:
   source: Zotero
   title: Privacystatements van zoekmachinebedrijven onder de loep
   type: thesis
-  URL: https://wesselpoelman.nl/files/poelman_thesis_ciw.pdf
+  URL: https://wesselpoelman.nl/data/poelman_thesis_ciw.pdf
 
 - id: poelman2022languageneutral
   author:
@@ -339,8 +339,7 @@ references:
     Language-neutral Semantic Parsing using Graph Transformations on Universal
     Dependencies
   type: thesis
-  URL: >-
-    https://arts.studenttheses.ub.rug.nl/31168/1/master_thesis_wessel_poelman.pdf
+  URL: https://wesselpoelman.nl/data/poelman_thesis_mis.pdf
 
 - id: poelman2022transparent
   abstract: >-
