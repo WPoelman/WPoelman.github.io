@@ -20,6 +20,10 @@ weight = 2
 name = "Publications"
 url = "publications/"
 weight = 3
+[[menu.main]]
+name = "[cv]"
+url = "/data/poelman_cv_en.pdf"
+weight = 100
 # [[menu.main]]
 # name = "Books"
 # url = "books/"
