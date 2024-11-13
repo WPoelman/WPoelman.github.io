@@ -194,20 +194,21 @@ references:
     - family: Bjerva
       given: Johannes
   citation-key: ploeger2024what
-  container-title: To appear at Empirical Methods in Natural Language Processing (EMNLP)
-  container-title-short: Appear Empir. Methods Nat. Lang. Process. EMNLP
+  container-title: Empirical Methods in Natural Language Processing (EMNLP)
+  container-title-short: Empir. Methods Nat. Lang. Process. EMNLP
   issued:
     - year: 2024
       month: 2
       day: 6
   note: |-
     repo: https://github.com/WPoelman/typ-div
+    slides: https://wesselpoelman.nl/files/emnlp_2024_slides.pdf
+    poster: https://wesselpoelman.nl/files/emnlp_2024_poster.pdf
     selected: true
-  publisher: arXiv
   source: arXiv.org
   title: What is "Typological Diversity" in NLP?
-  type: pp
-  URL: http://arxiv.org/abs/2402.04222
+  type: paper-conference
+  URL: https://aclanthology.org/2024.emnlp-main.326/
 
 - id: poelman*2024call
   abstract: >-
@@ -284,7 +285,7 @@ references:
   publisher-place: St. Julian's, Malta
   source: ACLWeb
   title: A Call for Consistency in Reporting Typological Diversity
-  type: workshop
+  type: paper-conference
   URL: https://aclanthology.org/2024.sigtyp-1.10
 
 - id: poelman2020context
@@ -460,7 +461,60 @@ references:
   type: workshop
   URL: https://aclanthology.org/2024.nlp4convai-1.5
 
-- id: vandenberg2022rug1pegasussers
+- id: tatariya*2024how
+  abstract: >-
+    Wikipedia's perceived high quality and broad language coverage have
+    established it as a fundamental resource in multilingual NLP. In the context
+    of low-resource languages, however, these quality assumptions are
+    increasingly being scrutinised. This paper critically examines the data
+    quality of Wikipedia in a non-English setting by subjecting it to various
+    quality filtering techniques, revealing widespread issues such as a high
+    percentage of one-line articles and duplicate articles. We evaluate the
+    downstream impact of quality filtering on Wikipedia and find that data
+    quality pruning is an effective means for resource-efficient training
+    without hurting performance, especially for low-resource languages.
+    Moreover, we advocate for a shift in perspective from seeking a general
+    definition of data quality towards a more language- and task-specific one.
+    Ultimately, we aim for this study to serve as a guide to using Wikipedia for
+    pretraining in a multilingual setting.
+  accessed:
+    - year: 2024
+      month: 11
+      day: 13
+  author:
+    - family: Tatariya*
+      given: Kushal
+    - family: Kulmizev*
+      given: Artur
+    - family: Poelman
+      given: Wessel
+    - family: Ploeger
+      given: Esther
+    - family: Bollmann
+      given: Marcel
+    - family: Bjerva
+      given: Johannes
+    - family: Luo
+      given: Jiaming
+    - family: Lent
+      given: Heather
+    - family: Lhoneux
+      given: Miryam
+      dropping-particle: de
+  citation-key: tatariya*2024how
+  DOI: 10.48550/arXiv.2411.05527
+  issued:
+    - year: 2024
+      month: 11
+      day: 8
+  number: arXiv:2411.05527
+  publisher: arXiv
+  source: arXiv.org
+  title: How Good is Your Wikipedia?
+  type: pp
+  URL: http://arxiv.org/abs/2411.05527
+
+- id: vandenberg*2022rug1pegasussers
   abstract: >-
     This paper describes our system created for the SemEval 2022 Task 3:
     Presupposed Taxonomies - Evaluating Neural-network Semantics. This task is
@@ -476,20 +530,20 @@ references:
       month: 5
       day: 3
   author:
-    - family: Berg
+    - family: Berg*
       given: Frank
       non-dropping-particle: van den
-    - family: Danoe
+    - family: Danoe*
       given: Gijs
-    - family: Ploeger
+    - family: Ploeger*
       given: Esther
-    - family: Poelman
+    - family: Poelman*
       given: Wessel
     - family: Edman
       given: Lukas
     - family: Caselli
       given: Tommaso
-  citation-key: vandenberg2022rug1pegasussers
+  citation-key: vandenberg*2022rug1pegasussers
   container-title: International Workshop on Semantic Evaluation (SemEval-2022) @ NAACL
   container-title-short: Int. Workshop Semantic Eval. SemEval-2022 NAACL
   DOI: 10.18653/v1/2022.semeval-1.31

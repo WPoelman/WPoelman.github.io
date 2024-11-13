@@ -5,7 +5,7 @@ baseurl = "/"
 ignoreFiles = ["_cache$"]
 
 [permalinks]
-post = "/post/:year/:month/:day/:slug/"
+post = "/posts/:year/:month/:day/:slug/"
 
 [menu]
 [[menu.main]]
@@ -14,7 +14,7 @@ url = ""
 weight = 1
 [[menu.main]]
 name = "Posts"
-url = "post/"
+url = "posts/"
 weight = 2
 [[menu.main]]
 name = "Publications"

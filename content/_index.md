@@ -14,7 +14,7 @@ You can find more details on my [[cv]](data/poelman_cv_en.pdf).
 Feel free to reach out if you're interested in collaborating: `contact` "[apenstaartje](https://ivdnt.org/actueel/columns-artikelen/apenstaartjes/)" `wesselpoelman.nl`
 
 I occasionally write [posts](/post) about (strange) things I find interesting.
-[Here]({{< ref "/post/2024-02-06-egregious.md" >}}), for example, you can find a list of 'egregious' acronyms in research I've come across.
+[Here]({{< ref "/posts/2024-02-06-egregious.md" >}}), for example, you can find a list of 'egregious' acronyms in research I've come across.
 Let me know if you've encountered one yourself, I'll add it to the list if it's egregious enough.
 
 
