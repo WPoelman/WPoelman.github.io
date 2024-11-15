@@ -22,4 +22,18 @@ Let me know if you've encountered one yourself, I'll add it to the list if it's 
 | [KU Leuven](https://www.kuleuven.be/wieiswie/nl/person/00167945) | [Github](https://github.com/WPoelman)         | [LinkedIn](https://www.linkedin.com/in/wessel-poelman/)         | [Semantic Scholar](https://www.semanticscholar.org/author/Wessel-Poelman/2175481435) | [Google Scholar](https://scholar.google.com/citations?user=Eqz1qd0AAAAJ&hl=en) |
 
 ## Selected Publications
-{{< selected-pub-list data="pubs" >}}
+* [**What is ''Typological Diversity'' in NLP?**](https://aclanthology.org/2024.emnlp-main.326/) *EMNLP 2024, **Oral***
+
+    Esther Ploeger*, **Wessel Poelman***, Miryam de Lhoneux & Johannes Bjerva.
+
+---
+
+* [**Transparent Semantic Parsing with Universal Dependencies Using Graph Transformations**](https://aclanthology.org/2022.coling-1.367/) *COLING*
+
+    **Wessel Poelman**, Rik van Noord & Johan Bos.
+
+---
+
+* [**A Principled Framework for Evaluating on Typologically Diverse Languages**](https://arxiv.org/abs/2407.05022) *Under review*
+
+    Esther Ploeger, **Wessel Poelman**, Andreas Holck Høeg-Petersen, Anders Schlichtkrull, Miryam de Lhoneux & Johannes Bjerva.
