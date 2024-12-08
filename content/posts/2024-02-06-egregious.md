@@ -11,7 +11,7 @@ Feel free to send me some samples, I'll decide if they are egregious enough to m
 A next step would be automatic collection of these, but that removes some of the fun of encountering them in the wild.
 I'm leaving that be for now.
 
-Last updated: Sept 20, 2024.
+Last updated: Dec 8, 2024.
 
 ## The list (alphabetical order)
 
@@ -25,6 +25,7 @@ Last updated: Sept 20, 2024.
 * [EPIC: Multi-Perspective Annotation of a Corpus of Irony](https://aclanthology.org/2023.acl-long.774) (Esther)
 * [GENOME: GenerativE Neuro-symbOlic visual reasoning by growing and reusing ModulEs](http://arxiv.org/abs/2311.04901) (Miryam)
 * [GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs](http://arxiv.org/abs/2310.15109)
+* [La vache qui rit: Language variation, change, evolution: quantitative investigations, rigourous techniques](https://x.com/freekvdvelde/status/1864956770772226480) (Miryam and Esther, not a paper)
 * [PASTA: A Dataset for Modeling PArticipant STAtes in Narratives](https://aclanthology.org/2023.tacl-1.73.pdf)
 * [PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models](http://arxiv.org/abs/2404.02948) (Artur)
 * [WET: Overcoming Paraphrasing Vulnerabilities in Embeddings-as-a-Service with Linear Transformation Watermarks](https://arxiv.org/abs/2409.04459) (Esther)
