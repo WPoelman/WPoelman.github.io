@@ -16,20 +16,20 @@ title: Publications
 
 ---
 
-* **The Roles of English in Evaluating Multilingual Language Models** *Under review*
+* **The Roles of English in Evaluating Multilingual Language Models** To appear at *NoDaLiDa 2025*
 
     **Wessel Poelman** & Miryam de Lhoneux.
 
 
 ## 2024
 
-* [**What is ''Typological Diversity'' in NLP?**](https://aclanthology.org/2024.emnlp-main.326/) *EMNLP 2024, **Oral***
+* [**What is ''Typological Diversity'' in NLP?**](https://aclanthology.org/2024.emnlp-main.326/) *EMNLP* **Oral**
 
     Esther Ploeger*, **Wessel Poelman***, Miryam de Lhoneux & Johannes Bjerva.
 
 ---
 
-* [**Engineering Conversational Search Systems: A Review of Applications, Architectures, and Functional Components**](https://aclanthology.org/2024.nlp4convai-1.5/) *NLP4ConvAI @ ACL, **Outstanding Paper Award***
+* [**Engineering Conversational Search Systems: A Review of Applications, Architectures, and Functional Components**](https://aclanthology.org/2024.nlp4convai-1.5/) *NLP4ConvAI @ ACL* **Won an Outstanding Paper Award**
 
     Phillip Schneider, **Wessel Poelman**, Michael Rovatsos & Florian Matthes.
 
