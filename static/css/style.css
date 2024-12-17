@@ -163,7 +163,7 @@ ul li {
 
 .review {
   background-color: var(--off-white-light);
-  border-left: 2px solid var(--secondary-color);
+  border-left: 2px solid var(--primary-color);
   font-style: italic;
   padding: 0.5em;
   margin-left: 1em;
