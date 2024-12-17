@@ -27,8 +27,10 @@ body {
 .menu a {
   text-decoration: none;
   background: var(--off-white);
+  border-bottom-color: var(--secondary-color);
+  border-bottom-style: dotted;
   padding: 5px;
-  border-radius: 5px;
+  margin-right: 1em;
 }
 
 .menu a:hover {

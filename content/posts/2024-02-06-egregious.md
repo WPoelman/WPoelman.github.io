@@ -11,13 +11,14 @@ Feel free to send me some samples, I'll decide if they are egregious enough to m
 A next step would be automatic collection of these, but that removes some of the fun of encountering them in the wild.
 I'm leaving that be for now.
 
-Last updated: Dec 8, 2024.
+Last updated: Dec 17, 2024.
 
 ## The list (alphabetical order)
 
 * [ART: rule bAsed futuRe-inference deducTion](https://aclanthology.org/2023.emnlp-main.592/)
 * [Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance](http://arxiv.org/abs/2305.16314) 
 * [BEER: BEtter Evaluation as Ranking](https://aclanthology.org/W14-3354.pdf) (Esther)
+* [BESSTIE: A Benchmark for Sentiment and Sarcasm Classification for Varieties of English](https://arxiv.org/abs/2412.04726) (Esther)
 * [CAPIVARA: Cost-Efficient Approach for Improving Multilingual CLIP Performance on Low-Resource Languages](http://arxiv.org/abs/2310.13683)
 * [CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration](http://arxiv.org/abs/2309.07822) (Esther)
 * [COCKATIEL: COntinuous Concept ranKed ATtribution with Interpretable ELements for explaining neural net classifiers on NLP tasks](http://arxiv.org/abs/2305.06754)

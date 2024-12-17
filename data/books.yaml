@@ -1,0 +1,270 @@
+books:
+  - title: The Structure of Scientific Revolutions
+    author: Thomas S. Kuhn
+    pubYear: 1962
+    readYear: 2024
+    stars: 4
+    review: Very interesting and rightfully a classic. The book conceptualizes the way science is *actually* done very well. It gives a framework of how to think about the scientific process and progress.
+  - title: Continental Drift
+    author: Russel Banks
+    pubYear: 1985
+    readYear: 2024
+    stars: 4.5
+    review: One of the most devistating books I've ever read. Check my blog post that combines EMNLP 2024, Miami, and this book for detailed thoughts.
+  - title: Het Lange Afscheid
+    author: Raymond Chandler
+    pubYear: 1953
+    readYear: 2024
+    stars: 3.5
+    review: Erg goed geschreven. Dit is duidelijk de basis voor een enorme hoeveelheid media (films als Casino, series als Bosch, etc.) Het verhaal is wat voorspelbaar, hoewel de twists creatief zijn, maar dat doet niks af aan de wereld en karakters.
+  - title: Amusing Ourselves to Death
+    author: Neil Postman
+    pubYear: 1985
+    readYear: 2024
+    stars: 4
+    review: You really have to come up with good arguments of why you agree or disagree with Postman. Truly forces you to confront your ideas and beliefs. Still highly relevant, despite being about TV and 40 years old.
+  - title: Nachttrein Naar Lissabon
+    author: Pascal Mercier
+    pubYear: 2004
+    readYear: 2024
+    stars: 4
+    review: Mooi en meeslepend, sommige overgangen zijn zo abrupt dat ze het mooie meanderende gevoel wegnemen, zonder goede reden.
+  - title: De Man in het Hoge Kasteel
+    author: Philip K. Dick
+    pubYear: 1966
+    readYear: 2024
+    stars: 3.5
+    review: Een verdiende klassieker. Heel strek begin, het einde is meer een politieroman op momenten. De Lebowski uitgave heeft ten minste vier typefouten...
+  - title: De Koude Revolutie
+    author: Michel Houellebecq
+    pubYear: 2004
+    readYear: 2024
+    stars: 3.5
+    review: Interessante essays die de rest van MH zijn oeuvre extra context biedt; voor de liefhebber.
+  - title: Vernietigen
+    author: Michel Houellebecq
+    pubYear: 2023
+    readYear: 2023
+    stars: 4
+    review:
+  - title: De Goede Zoon
+    author: Rob van Essen
+    pubYear: 2018
+    readYear: 2023
+    stars: 3.5
+    review:
+  - title: Zondagsgeld
+    author: Philip Snijder
+    pubYear: 2007
+    readYear: 2023
+    stars: 4
+    review: Intrigerend portret van een heel specifieke tijd en plaats. De familieproblemen zijn voor iedereen herkenbaar.
+  - title: Anomalie
+    author: Hervé Le Tellier
+    pubYear: 2020
+    readYear: 2023
+    stars: 3.5
+    review: Uniek concept. Zou zomaar een serie kunnen zijn, het einde voelt wat abrupt en onsamenhangend.
+  - title: De Kaart en het Gebied
+    author: Michel Houellebecq
+    pubYear: 2011
+    readYear: 2021
+    stars: 4
+    review:
+  - title: De Wereld als Markt en Strijd
+    author: Michel Houellebecq
+    pubYear: 1994
+    readYear: 2019
+    stars: 4
+    review:
+  - title: Elementaire Deetljes
+    author: Michel Houellebecq
+    pubYear: 2004
+    readYear: 2019
+    stars: 4
+    review:
+  - title: De Mogelijkheid van een Eiland
+    author: Michel Houellebecq
+    pubYear: 2005
+    readYear: 2019
+    stars: 5
+    review: Mijn favoriet van MH. De meest creatieve en ingenieuze uitwerking van zijn gebruikelijke 'uiterlijke conclusies'. De meest uiteenlopende thema's worden gebruikt; klonen, cults, de uitroeiing van de mensheid; zonder dat het science-fiction wordt. De focus op de huidige maatschappij is altijd aanwezig.
+  - title: Mijn Strijd 1 - Vader
+    author: Karl Ove Knausgård
+    pubYear: 2012
+    readYear:
+    stars: 4
+    review: Strek begin van een 'reis'. Óf het pakt je en je leest alles, óf je vindt het vies en laat het hierbij.
+  - title: Mijn Strijd 2 - Liefde
+    author: Karl Ove Knausgård
+    pubYear: 2012
+    readYear:
+    stars: 4
+    review:
+  - title: Mijn Strijd 3 - Zoon
+    author: Karl Ove Knausgård
+    pubYear: 2013
+    readYear:
+    stars: 4
+    review:
+  - title: Mijn Strijd 4 - Nacht
+    author: Karl Ove Knausgård
+    pubYear: 2013
+    readYear:
+    stars: 4.5
+    review:
+  - title: Mijn Strijd 5 - Schrijver
+    author: Karl Ove Knausgård
+    pubYear: 2014
+    readYear:
+    stars: 5
+    review: Dit had het einde van de serie mogen zijn. Heel indringend en emotioneel, helemaal na de opbouw van de vorige vier boeken.
+  - title: Mijn Strijd 6 - Vrouw
+    author: Karl Ove Knausgård
+    pubYear: 2015
+    readYear:
+    stars: 2
+    review: Het begin is goed, maar dan krijg je ineens honderden pagina's aan literaire essays over je heen. Als je hier bent, dan ben je al duizenden pagina's met Knausgård meegegaan, je 'kent' hem door en door. Hij hoeft niet nog eens te bewijzen dat hij inderdaad een schrijver geworden is. Ik ben gestopt na 300 pagina's of zo. Misschien dat ik het ooit nog eens uitlees...
+  - title: Onderworpen
+    author: Michel Houellebecq
+    pubYear: 2015
+    readYear:
+    stars: 3
+    review:
+  - title: Serotonine
+    author: Michel Houellebecq
+    pubYear: 2019
+    readYear:
+    stars: 3
+    review:
+  - title: Platform
+    author: Michel Houellebecq
+    pubYear: 2002
+    readYear:
+    stars: 3
+    review:
+  - title: Naamloos
+    author: Pepijn Lanen
+    pubYear: 2016
+    readYear: 2018
+    stars: 2.5
+    review:
+  - title: Grand Hotel Europa
+    author: Ilja Leonard Pfeijffer
+    pubYear: 2018
+    readYear: 2020
+    stars: 4
+    review: Grote onderneming om te schrijven en lezen. Mooie structuur. Ik ergerde me zo nu aan het suggereren van een punt of moraal in plaats van het expliciet te maken. Vaak wordt dit wel gedaan, dus als het ineens niet gedaan wordt, dan voelt het wat leeg en neemt het wat van de 'bravoure' weg.
+  - title: Roadside Picnic
+    author: Arkady Strugatsky and Boris Strugatsky
+    pubYear: 1977
+    readYear: 2018
+    stars: 3.5
+    review:
+  - title: Permutation City
+    author: Greg Egan
+    pubYear: 1994
+    readYear:
+    stars: 4.5
+    review: One of my favorite SF novels.
+  - title: The Metamorphosis of Prime Intellect
+    author: Roger Williams
+    pubYear: 1994
+    readYear:
+    stars: 4.5
+    review: One of my favorite SF novellas.
+  - title: De Acht Bergen
+    author: Paolo Cognetti
+    pubYear: 2017
+    readYear:
+    stars: 1.5
+    review: De natuurbeschrijvingen zijn mooi, maar verder pijnlijk doorsnee.
+  - title: De Kunst van het Veldspel
+    author: Chad Harbach
+    pubYear: 2012
+    readYear:
+    stars: 1.5
+    review:
+  - title: Het Diner
+    author: Herman Koch
+    pubYear: 2009
+    readYear:
+    stars: 2
+    review:
+  - title: Zomerhuis met zwembad
+    author: Herman Koch
+    pubYear: 2011
+    readYear:
+    stars: 1.5
+    review:
+  - title: Bonita Avenue
+    author: Peter Buwalda
+    pubYear: 2010
+    readYear:
+    stars: 3.5
+    review: Memorabel, ik zie nog steeds de grote judoënde vader voor me. En die ene scène uiteraard.
+  - title: Otmars Zonen
+    author: Peter Buwalda
+    pubYear: 2019
+    readYear:
+    stars: 3
+    review:
+  - title: Economie is Geen Wetenschap
+    author: Bernard Maris
+    pubYear: 2015
+    readYear:
+    stars: 3.5
+    review: Mooie reflectie op de economische kant van MH zijn werk.
+  - title: "Aan de rand van de wereld: Michel Houellebecq"
+    author: Martin de Haan
+    pubYear: 2019
+    readYear:
+    stars: 3.5
+    review: Vertalen is een vak op zich, MH vertalen een vak apart. Veel respect voor Martin de Haan.
+  - title: De Helaasheid der Dingen
+    author: Dimitri Verhulst
+    pubYear: 2006
+    readYear:
+    stars: 4
+    review: Klassieker met veel scenario's die je bijblijven (TV kuisen, rauw gehakt met koffie, de wedstrijd).
+  - title: Hokwerda's Kind
+    author: Oek de Jong
+    pubYear: 2002
+    readYear:
+    stars: 3
+    review: De scène 'vooruit laten vallen, opvangen met haar handen en ruiken aan de zure vloerbedekking van de trap' is mij altijd bijgebleven.
+  - title: Joe Speedboot
+    author: Tommy Wieringa
+    pubYear: 2005
+    readYear:
+    stars: 3
+    review:
+  - title: Heilige Rita
+    author: Tommy Wieringa
+    pubYear: 2017
+    readYear:
+    stars: 2
+    review:
+  - title: Voordat Ik Brand
+    author: Gaute Heivoll
+    pubYear: 2014
+    readYear:
+    stars: 1.5
+    review:
+  - title: Stoner
+    author: John Williams
+    pubYear: 1965
+    readYear:
+    stars: 3
+    review:
+  - title: Butcher's Crossing
+    author: John Williams
+    pubYear: 1960
+    readYear:
+    stars: 4
+    review:
+  
+  
+  
+  
+ 

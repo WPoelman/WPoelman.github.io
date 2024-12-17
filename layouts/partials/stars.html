@@ -1,0 +1,15 @@
+{{ $score := . }}
+{{ $fullStars := math.Floor $score }}
+{{ $addHalfStar := ne (sub $score $fullStars) 0.0 }}
+
+{{ range seq $fullStars }}
+&#9733;
+{{ end }}
+
+{{ if $addHalfStar }}
+&#11242;
+{{ end }}
+
+{{ range seq ( sub 5 (add $fullStars (cond $addHalfStar 1 0)) )}}
+&#9734;
+{{ end }}

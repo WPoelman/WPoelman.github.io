@@ -1,0 +1,8 @@
+<li>
+    <ul>
+        <li>
+            <i>{{ .title}}</i> ({{ .pubYear}}) - {{ .author}} {{with .stars }} | {{ partial "stars" . }} {{ end }} {{ with .readYear }} | 
+            <b>{{ . }}</b> {{ end }}
+            {{with .review }}<li><p class="review">{{ .}}</p></li> {{ end }}
+    </ul>
+</li>

@@ -1,0 +1,8 @@
+{{ if .IsNamedParams }}
+{{ $data := index $.Site.Data.books $.Params.data  }}
+<ul class="book-list">
+    {{ range $data }}
+    {{ partial "book" . }}
+    {{ end }}
+</ul>
+{{- end -}}
