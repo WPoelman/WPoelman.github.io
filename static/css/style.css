@@ -93,6 +93,24 @@ video {
   max-width: 100%;
 }
 
+.right {
+  float: right;
+  max-width: 40%;
+  margin-left: 20px;
+}
+
+.left {
+  float: left;
+  max-width: 40%;
+  margin-right: 20px;
+}
+
+.center {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
 main {
   hyphens: auto;
   padding-bottom: 20em;
@@ -104,8 +122,15 @@ main p {
 
 blockquote {
   background: var(--off-white-light);
-  border-left: 5px solid var(--off-white);
   padding: 3px 1em 3px;
+}
+
+blockquote:nth-child(even) {
+  border-left: 3px dotted var(--primary-color);
+}
+
+blockquote:nth-child(odd) {
+  border-left: 3px dotted var(--secondary-color);
 }
 
 table {

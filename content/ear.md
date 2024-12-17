@@ -1,5 +1,5 @@
 ---
-title: 'Egregious Acronyms in Research'
+title: 'EAR: Egregious Acronyms in Research'
 date: 2024-02-06T15:39:33+01:00
 author: 'Wessel Poelman'
 ---

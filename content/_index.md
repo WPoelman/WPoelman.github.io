@@ -4,6 +4,8 @@ title: Home
 
 # Wessel Poelman
 
+{{< figure src="img/cropped_pf.jpeg" width="320" class="right" >}}
+
 I work at the [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html) as a PhD student in the [LAGoM](https://www.lagom.cs.kuleuven.be/) group of [Miryam de Lhoneux](https://people.cs.kuleuven.be/~miryam.delhoneux/).
 My research focuses on multilingual natural language processing, in particular: incorporating under-used resources, evaluation and sampling.
 
@@ -13,13 +15,14 @@ You can find more details on my [[cv]](data/poelman_cv_en.pdf).
 
 Feel free to reach out if you're interested in collaborating: `contact` "[apenstaartje](https://ivdnt.org/actueel/columns-artikelen/apenstaartjes/)" `wesselpoelman.nl`
 
-I occasionally write [posts](/post) about (strange) things I find interesting.
-[Here]({{< ref "/posts/2024-02-06-egregious.md" >}}), for example, you can find a list of 'egregious' acronyms in research I've come across.
-Let me know if you've encountered one yourself, I'll add it to the list if it's egregious enough.
-
 
 ## Some links
 | [KU Leuven](https://www.kuleuven.be/wieiswie/nl/person/00167945) | [Github](https://github.com/WPoelman)         | [LinkedIn](https://www.linkedin.com/in/wessel-poelman/)         | [Semantic Scholar](https://www.semanticscholar.org/author/Wessel-Poelman/2175481435) | [Google Scholar](https://scholar.google.com/citations?user=Eqz1qd0AAAAJ&hl=en) |
+
+## Non-academic writing
+I occasionally [write](/post) about (strange) things I find interesting.
+I also maintain some lists, which you can find at the top.
+
 
 ## Selected Publications
 * [**The Roles of English in Evaluating Multilingual Language Models**](https://arxiv.org/abs/2412.08392) To appear at *NoDaLiDa 2025*

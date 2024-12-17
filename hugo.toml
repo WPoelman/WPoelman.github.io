@@ -19,7 +19,7 @@ weight = 2
 [[menu.main]]
 name = "Publications"
 url = "publications/"
-weight = 3
+weight = 99
 [[menu.main]]
 name = "[cv]"
 url = "/data/poelman_cv_en.pdf"
@@ -28,6 +28,14 @@ weight = 100
 name = "Books"
 url = "books/"
 weight = 3
+[[menu.main]]
+name = "Quotes"
+url = "quotes/"
+weight = 4
+[[menu.main]]
+name = "EAR"
+url = "ear/"
+weight = 5
 # [[menu.main]]
 # name = "Tags"
 # url = "tags/"
