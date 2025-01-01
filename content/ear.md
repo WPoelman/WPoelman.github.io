@@ -23,6 +23,7 @@ Last updated: Dec 17, 2024.
 * [CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration](http://arxiv.org/abs/2309.07822) (Esther)
 * [COCKATIEL: COntinuous Concept ranKed ATtribution with Interpretable ELements for explaining neural net classifiers on NLP tasks](http://arxiv.org/abs/2305.06754)
 * [DRAGON: Deep Bidirectional Language-Knowledge Graph Pretraining](https://knowledge-nlp.github.io/aaai2023/papers/001-Dragon-oral.pdf)
+* [DUMB: A Benchmark for Smart Evaluation of Dutch Models](https://aclanthology.org/2023.emnlp-main.447/)
 * [EPIC: Multi-Perspective Annotation of a Corpus of Irony](https://aclanthology.org/2023.acl-long.774) (Esther)
 * [GENOME: GenerativE Neuro-symbOlic visual reasoning by growing and reusing ModulEs](http://arxiv.org/abs/2311.04901) (Miryam)
 * [GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs](http://arxiv.org/abs/2310.15109)
