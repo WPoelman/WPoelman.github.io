@@ -1,7 +1,5 @@
 +++
 title = 'Quotes'
-date = 2024-02-10T10:30:52+01:00
-draft = false
 +++
 
 Some sentences, passages or lyrics 'stick'. 

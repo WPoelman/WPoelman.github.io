@@ -8,12 +8,15 @@ title: Publications
 
   Kushal Tatariya*, Artur Kulmizev*, **Wessel Poelman**, Esther Ploeger, Marcel Bollmann, Johannes Bjerva, Jiaming Luo, Heather Lent & Miryam de Lhoneux.
 
+  [paper](https://arxiv.org/abs/2411.05527) • [code](https://github.com/akulmizev/Wikipedia_Quality_Estimation)
+
 ---
   
 * [**A Principled Framework for Evaluating on Typologically Diverse Languages**](https://arxiv.org/abs/2407.05022) *Under review*
 
     Esther Ploeger, **Wessel Poelman**, Andreas Holck Høeg-Petersen, Anders Schlichtkrull, Miryam de Lhoneux & Johannes Bjerva.
 
+    [paper](https://arxiv.org/abs/2407.05022) • [poster](/data/clin_2024_poster.pdf) • [code](https://github.com/esther2000/typdiv-sampling)
 ---
 
 ## 2025
@@ -22,18 +25,23 @@ title: Publications
 
     **Wessel Poelman** & Miryam de Lhoneux.
 
+    [paper](https://arxiv.org/abs/2412.08392)
+
 
 ## 2024
 
-* [**What is ''Typological Diversity'' in NLP?**](https://aclanthology.org/2024.emnlp-main.326/) *EMNLP* **Oral**
+* [**What is ''Typological Diversity'' in NLP?**](https://aclanthology.org/2024.emnlp-main.326/) *EMNLP* **Oral Presentation**
 
     Esther Ploeger*, **Wessel Poelman***, Miryam de Lhoneux & Johannes Bjerva.
-
+    
+    [paper](https://aclanthology.org/2024.emnlp-main.326/) • [poster](/data/emnlp_2024_poster.pdf) • [slides](/data/emnlp_2024_slides.pdf) • [code](https://github.com/WPoelman/typ-div-survey) • [blog mention](https://medium.com/@jlibovicky/highlights-from-machine-translation-and-multilinguality-in-february-2024-5b11d183e6ac) • [extended abstract @ SIGTYP](https://aclanthology.org/2024.sigtyp-1.10/)
 ---
 
 * [**Engineering Conversational Search Systems: A Review of Applications, Architectures, and Functional Components**](https://aclanthology.org/2024.nlp4convai-1.5/) *NLP4ConvAI @ ACL* **Won an Outstanding Paper Award**
 
     Phillip Schneider, **Wessel Poelman**, Michael Rovatsos & Florian Matthes.
+
+    [paper](https://aclanthology.org/2024.nlp4convai-1.5/) • [slides](/data/nlp4convai_2024_slides.pdf)
 
 ---
 
@@ -41,17 +49,25 @@ title: Publications
 
     Pieter Fivez, Walter Daelemans, Tim Van Cruys, Yury Kashnitsky, Savvas Chamezopoulos, Hadi Mohammadi, Anastasia Giachanou, Ayoub Bagheri, **Wessel Poelman**, Juraj Vladika, Esther Ploeger, Johannes Bjerva, Florian Matthes & Hans Halteren.
 
+    [paper](https://clinjournal.org/clinj/article/view/182) • [slides](/data/clin_2023_slides.pdf) • [code](https://github.com/WPoelman/DetecTUM)
+
 ## 2023    
     
 * [**Detecting ChatGPT: A Survey of the State of Detecting ChatGPT-Generated Text**](https://aclanthology.org/2023.ranlp-stud.1/) *RANLP SRW*
 
     Mahdi Dhaini, **Wessel Poelman** & Ege Erdogan.
+    
+    [paper](https://aclanthology.org/2023.ranlp-stud.1/) • [slides](/data/ranlp_srw_2023_slides.pdf)
 
 ## 2022
 * [**Transparent Semantic Parsing with Universal Dependencies Using Graph Transformations**](https://aclanthology.org/2022.coling-1.367/) *COLING*
 
     **Wessel Poelman**, Rik van Noord & Johan Bos.
+
+    [paper](https://aclanthology.org/2022.coling-1.367/) • [poster](/data/coling_2022_poster.pdf) • [slides](/data/coling_2022_slides.pdf) • [code](https://github.com/WPoelman/ud-boxer) • [master thesis](/data/poelman_thesis_mis.pdf)
     
 * [**RUG-1-Pegasussers at SemEval-2022 Task 3: Data Generation Methods to Improve Recognizing Appropriate Taxonomic Word Relations**](https://aclanthology.org/2022.semeval-1.31/) *SemEval*
 
     Frank van den Berg*, Gijs Danoe*, Esther Ploeger*, **Wessel Poelman***, Lukas Edman & Tommaso Caselli.
+
+    [paper](https://aclanthology.org/2022.semeval-1.31/) • [poster](/data/semeval_2022_poster.pdf) • [slides](/data/semeval_2022_slides.pdf) • [code](https://github.com/WPoelman/shared-task)

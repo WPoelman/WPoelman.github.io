@@ -1,7 +1,9 @@
 {{ partial "header.html" . }}
 <div class="article-head">
     <h1><span class="title">{{ .Title | markdownify }}</span></h1>
-    <hr />
+    {{ with .Date }}
+    <h4>{{ . | time.Format ":date_medium" }}</h4>
+    {{ end }}
 </div>
 
 <main>

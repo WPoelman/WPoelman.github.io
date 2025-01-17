@@ -1,6 +1,5 @@
 ---
 title: 'EAR: Egregious Acronyms in Research'
-date: 2024-02-06T15:39:33+01:00
 author: 'Wessel Poelman'
 ---
 
@@ -11,7 +10,7 @@ Feel free to send me some samples, I'll decide if they are egregious enough to m
 A next step would be automatic collection of these, but that removes some of the fun of encountering them in the wild.
 I'm leaving that be for now.
 
-Last updated: Dec 17, 2024.
+Last updated: Jan 06, 2025.
 
 ## The list (alphabetical order)
 

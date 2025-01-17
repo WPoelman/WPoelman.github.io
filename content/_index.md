@@ -13,7 +13,13 @@ Before coming to Belgium, I worked at the [Technical University of Munich](https
 Before that, I completed a master's in Information Science at the [University of Groningen](https://www.rug.nl/) and worked for about two years as a machine learning engineer at [Web-IQ](https://web-iq.com/).
 You can find more details on my [[cv]](data/poelman_cv_en.pdf).
 
-Feel free to reach out if you're interested in collaborating: `contact` "[apenstaartje](https://ivdnt.org/actueel/columns-artikelen/apenstaartjes/)" `wesselpoelman.nl`
+Feel free to reach out: 
+
+`wessel.poelman` at `kuleuven.be`
+
+or
+
+`contact` "[apenstaartje](https://ivdnt.org/actueel/columns-artikelen/apenstaartjes/)" `wesselpoelman.nl`
 
 
 ## Some links
@@ -23,6 +29,11 @@ Feel free to reach out if you're interested in collaborating: `contact` "[apenst
 I occasionally [write](/post) about (strange) things I find interesting.
 I also maintain some lists, which you can find at the top.
 
+## Projects
+1. [`qwanqwa`](https://github.com/WPoelman/qwanqwa): a toolkit to work with a large variety of language metadata (identifiers, speaker information, locales, ...)
+2. [`typdiv-sampling`](https://github.com/esther2000/typdiv-sampling): a framework to create and evaluate languages samples (together with [Esther Ploeger](https://esther2000.github.io/))
+3. [`ud-boxer`](https://github.com/WPoelman/ud-boxer): DRS parsing with Universal Dependencies
+
 
 ## Selected Publications
 * [**The Roles of English in Evaluating Multilingual Language Models**](https://arxiv.org/abs/2412.08392) To appear at *NoDaLiDa 2025*
@@ -31,7 +42,7 @@ I also maintain some lists, which you can find at the top.
 
 ---
 
-* [**What is ''Typological Diversity'' in NLP?**](https://aclanthology.org/2024.emnlp-main.326/) *EMNLP 2024, **Oral***
+* [**What is ''Typological Diversity'' in NLP?**](https://aclanthology.org/2024.emnlp-main.326/) *EMNLP 2024, **Oral Presentation***
 
     Esther Ploeger*, **Wessel Poelman***, Miryam de Lhoneux & Johannes Bjerva.
 
