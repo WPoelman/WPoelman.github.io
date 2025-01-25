@@ -31,7 +31,7 @@ I also maintain some lists, which you can find at the top.
 
 ## Projects
 1. [`qwanqwa`](https://github.com/WPoelman/qwanqwa): a toolkit to work with a large variety of language metadata (identifiers, speaker information, locales, ...)
-2. [`typdiv-sampling`](https://github.com/esther2000/typdiv-sampling): a framework to create and evaluate languages samples (together with [Esther Ploeger](https://esther2000.github.io/))
+2. [`typdiv-sampling`](https://github.com/esther2000/typdiv-sampling): a framework to create and evaluate language samples (together with [Esther Ploeger](https://esther2000.github.io/))
 3. [`ud-boxer`](https://github.com/WPoelman/ud-boxer): DRS parsing with Universal Dependencies
 
 
