@@ -25,7 +25,7 @@ title: Publications
 
     **Wessel Poelman** & Miryam de Lhoneux.
 
-    [paper](https://arxiv.org/abs/2412.08392)
+    [paper](https://arxiv.org/abs/2412.08392) • [poster](/data/nodalida_2025_poster.pdf)
 
 
 ## 2024
