@@ -143,6 +143,12 @@ books:
     readYear:
     stars: 3
     review:
+  - title: Het Jachtgeweer
+    author: Yasushi Inoue
+    pubYear: 1949
+    readYear:
+    stars: 3.5
+    review: Mooie raamvertelling met brieven. Voelt groter dan de ~80 bladzijden. 
   - title: Naamloos
     author: Pepijn Lanen
     pubYear: 2016
