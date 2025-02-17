@@ -11,7 +11,7 @@ My research focuses on multilingual natural language processing, in particular: 
 
 Before coming to Belgium, I worked at the [Technical University of Munich](https://www.tum.de/en/) in Germany for half a year as a research associate (Wissenschaftlicher Mitarbeiter).
 Before that, I completed a master's in Information Science at the [University of Groningen](https://www.rug.nl/) and worked for about two years as a machine learning engineer at [Web-IQ](https://web-iq.com/).
-You can find more details on my [[cv]](data/poelman_cv_en.pdf).
+You can find more details on my [about page](/about).
 
 Feel free to reach out: 
 
@@ -58,3 +58,14 @@ I also maintain some lists, which you can find at the top.
 
     **Wessel Poelman**, Rik van Noord & Johan Bos.
 
+
+## News
+* Mar 2025 -- Poster at *NoDaLiDa*, Tallin (Estonia)
+* Jan 2025 -- Attended *UniDive Third General Meeting*, Budapest (Hungary)
+* Nov 2024 -- Oral presentation at *EMNLP*, Miami (US)
+* Aug 2024 -- Poster at *Computational Linguistics in the Netherlands*, Leiden University (Netherlands)
+* Jul 2024 -- Attended *Lisbon Machine Learning School* (LxMLS), Instituto Superior Técnico (Portugal)
+* May 2024 -- Poster at *Leuven.AI: Science of AI* workshop, KU Leuven (Belgium)
+* Jan 2024 -- Poster at *Human Perspective on Cross-Lingual AI Models*, VU Amsterdam (Netherlands)
+* Sep 2023 -- Presentation at *Computational Linguistics in the Netherlands*, University of Antwerp (Belgium)
+* Aug 2023 -- Attended  *European Summer School In Logic, Language and Information* (ESSLLI), University of Ljubljana (Slovenia)

@@ -111,7 +111,7 @@ video {
   text-align: center;
 }
 
-main {
+body {
   hyphens: auto;
   padding-bottom: 20em;
 }
@@ -174,7 +174,8 @@ h6 {
   border-bottom: 2px solid var(--secondary-color);
 }
 
-ul {
+.book-list,
+ul ul {
   list-style-type: none;
 }
 
@@ -183,7 +184,7 @@ ul li {
 }
 
 .book-list {
-  padding: 0, 2em;
+  padding: 0em;
 }
 
 .review {
