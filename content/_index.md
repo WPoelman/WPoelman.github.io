@@ -36,7 +36,7 @@ I also maintain some lists, which you can find at the top.
 
 
 ## Selected Publications
-* [**The Roles of English in Evaluating Multilingual Language Models**](https://arxiv.org/abs/2412.08392) To appear at *NoDaLiDa 2025*
+* [**The Roles of English in Evaluating Multilingual Language Models**](https://arxiv.org/abs/2412.08392) *NoDaLiDa / Baltic-HLT 2025*
 
     **Wessel Poelman** & Miryam de Lhoneux.
 

@@ -14,7 +14,6 @@ If I know in which year I read a particular book, it will be listed at the end.
 ## Current and planned
 
 * *Against Method* - Paul Feyerabend (1975)
-* *Onder Professoren* - W.F. Hermans (1975)
 * *Malafrena* - Ursula K. Le Guin (1979)
 * *The Name of the Rose* - Umberto Eco (1980)
 
