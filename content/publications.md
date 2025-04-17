@@ -21,11 +21,11 @@ title: Publications
 
 ## 2025
 
-* [**The Roles of English in Evaluating Multilingual Language Models**](https://arxiv.org/abs/2412.08392) *NoDaLiDa / Baltic-HLT 2025*
+* [**The Roles of English in Evaluating Multilingual Language Models**](https://aclanthology.org/2025.nodalida-1.53) *NoDaLiDa / Baltic-HLT 2025*
 
     **Wessel Poelman** & Miryam de Lhoneux.
 
-    [paper](https://arxiv.org/abs/2412.08392) • [poster](/data/nodalida_2025_poster.pdf)
+    [paper](https://aclanthology.org/2025.nodalida-1.53) • [poster](/data/nodalida_2025_poster.pdf)
 
 
 ## 2024
