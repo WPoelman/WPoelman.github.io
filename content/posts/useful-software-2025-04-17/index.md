@@ -2,6 +2,7 @@
 title = 'A Collection of Useful Software'
 date = 2025-04-17T10:09:34+01:00
 author = 'Wessel Poelman'
+draft = false
 +++
 
 This is random collection of useful software.
