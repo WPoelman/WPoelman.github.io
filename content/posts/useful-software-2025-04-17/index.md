@@ -38,15 +38,15 @@ It saves time and annoyance because you already filter exactly what you want whe
 ## Albert
 I've been using Linux as my personal daily operating system for almost 10 years at this point.
 When I worked as a software engineer a while ago, I had to use a Mac to be able to run IOS emulators.
-I was neutral towards using a Mac, as it was 'close enough' to way I use Linux.
-The one thing I grew accustomed to very quickly in the two years I used it was Spotlight and I missed it sorely on Linux.
+I was neutral towards using a Mac, as it was 'close enough' to how I use Linux.
+The one thing I grew accustomed to quickly in those two years was Spotlight, and I missed it sorely on Linux.
 It lets you launch applications, find files, do quick calculations, and a lot more from a single search box.
 You bring it up anywhere on top of what's on screen with CTRL+SPACE (or CMD+SPACE).
 The default launchers in XFCE, Gnome, KDE, etc. don't come close to how frictionless Spotlight works.
 This is when I found [Albert](https://albertlauncher.github.io/) and I've been using it daily for about 6 years.
 It's the first thing I install when I have to do a fresh Linux install.
 It's customizable, fast, and most importantly, frictionless.
-If you click on something outside of the search box, it goes away, if you have multiple screens, it opens on the one you've focused on last, it sorts the actions by most used; I could go on, but it is so nice, it genuinely changed how I use computers.
+If you click on something outside of the search box, it goes away, if you have multiple screens, it opens on the one you've focused on last, it sorts the actions by most used (or something else); I could go on, but it is so nice, it genuinely changed how I use computers.
 If I have to use a Windows machine,[^1] I accidentally keep pressing CTRL+SPACE; it's muscle memory at this point.
 
 
@@ -133,13 +133,15 @@ output = job.result()
 
 The one thing that requires some fiddling to set up is the `slurm_additional_parameters` field.
 I had to figure out what cluster-specific variables I had to set there to make it work.
-This will be different from cluster to cluster, but if you run into trouble, it's worth trying to use this field.
+This will be different from cluster to cluster.
+If you run into trouble, it's worth looking into missing required variables which are not 'standard'; they likely need to go here.
 It's basically the "kwargs" mechanism from Python; it will pass along all variables defined in that dict to the SLURM script `submitit` creates for you.
-If this is set properly, it's works very well.
-I specifically select the `AutoExecutor` here, which, as the name suggests, automatically determines if it has access to SLURM or not.
-If not, it will run your 'compute function' just normally, if it does have access to SLURM, it will submit it as a job.
+If this is set properly, it's works well.
+
+I specifically select the `AutoExecutor` here, which, as the name suggests, automatically determines where to run your job.
+If it has no access to SLURM, it will run your 'compute function' locally, if it does have access, it will submit it as a job.
 No config or arguments needed.
-Lastly, I use `submitit` a lot in combination with `itertools`; I define lists of values I want per experimental variable and then just create the product of those, which then become my compute jobs.
+Lastly, I use `submitit` a lot in combination with `itertools`; I define lists of values I want per experimental variable and create the product of those, which then become my compute jobs.
 
 ```python
 # Whatever your experimental variables are...
@@ -168,22 +170,22 @@ for exp_args in itertools.product(exp_var_1, exp_var_2, exp_var_3):
 ```
 
 ## Browser Extensions
-* [GitHub Enhanced](https://github.com/refined-github/refined-github) fixes a lot of annoyances of using GitHub. The quality-of-life features it adds are generally very well thought out.
+* [GitHub Enhanced](https://github.com/refined-github/refined-github) fixes a lot of annoyances of using GitHub. The quality-of-life features it adds are generally well thought out.
 * [Unpaywall](https://unpaywall.org/) tries to find open access versions of research articles behind a paywall. I'm luckily in a field where the vast majority of research is openly available, but it has helped occasionally, especially with older articles. 
-* [Unhook](https://unhook.app/) hides everything on Youtube except for the search bar. I generally don't use Youtube on my laptop, but sometimes I watch a keynote or lecture for work and don't want to see piles of distracting algorithmic trash when I do.
+* [Unhook](https://unhook.app/) hides everything on Youtube except for the search bar. I generally don't use Youtube on my laptop, but sometimes I watch a keynote or lecture for work and don't want to see piles of distracting algorithmic crap when I do.
 
 ## Python Development
 Python as a language is nice to use, Python as a development 'ecosystem' is cumbersome at best and a huge anti-pattern at worst.
 Over the years, I've tried Conda, Poetry, pyenv, manual setups, etc.
-I currently have a [decent setup](https://github.com/WPoelman/template) that works for me that I also recommend to students, but it's still quite cumbersome.
-Someone recently recommended [uv](https://github.com/astral-sh/uv) to me and it seems extremely promising.
+I currently have a [decent setup](https://github.com/WPoelman/template) that works for me, which I also recommend to students, but it's still quite cumbersome.
+Someone recently recommended [uv](https://github.com/astral-sh/uv) and it seems extremely promising.
 I've yet to use it extensively, but I thought I'd put it here as it holds a lot of promise.
 
-Finally, I also highly recommend [pre-commit](https://pre-commit.com/) (it's also included in my setup mentioned previously).
+Finally, I also recommend [pre-commit](https://pre-commit.com/) (it's also included in my setup mentioned previously).
 It can do many things, but it's mainly used as a way to keep your git repos clean and safe.
 It runs fixes and checks you specify which *have to be met* for you to even push your changes.
 This can include things like "remove all trailing whitespace", "format Markdown", "check dependencies for security issues", "format Python", "pass tests", "don't upload things that look like API keys", etc.
-I've used it as a CI/CD framework at a previous job, I use it in my own repos (mostly), and it generally works very well once it's set up properly.
+I've used it as a CI/CD framework at a previous job, I use it in my own repos (mostly), and it generally works well once it's set up properly.
 
 
 [^1]: I occasionally write software for a computer in a physics lab that *has* to have Windows on it for some proprietary drivers for measurement instruments.
