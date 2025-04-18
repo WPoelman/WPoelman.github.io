@@ -96,7 +96,6 @@ Say you don't need huge GPU resources for a inference run; you can add a line of
 The example from above becomes:
 
 ```python
-import itertools
 import submitit
 
 
@@ -144,6 +143,9 @@ No config or arguments needed.
 Lastly, I use `submitit` a lot in combination with `itertools`; I define lists of values I want per experimental variable and create the product of those, which then become my compute jobs.
 
 ```python
+import itertools
+
+
 # Whatever your experimental variables are...
 def experiment_function(number_of_items: int, subset: str, with_rounding: bool) -> None:
     ...
