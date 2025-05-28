@@ -4,7 +4,7 @@ title: Publications
 
 ## In progress
 
-* [**How Good Is Your Wikipedia?**](https://arxiv.org/abs/2411.05527) *Under review*
+* [**How Good Is Your Wikipedia? Auditing Data Quality for Low-resource and Multilingual NLP**](https://arxiv.org/abs/2411.05527) *Under review*
 
   Kushal Tatariya*, Artur Kulmizev*, **Wessel Poelman**, Esther Ploeger, Marcel Bollmann, Johannes Bjerva, Jiaming Luo, Heather Lent & Miryam de Lhoneux.
 
