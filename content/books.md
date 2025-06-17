@@ -14,9 +14,8 @@ If I know in which year I read a particular book, it will be listed at the end.
 ## Current and planned
 
 * *Against Method* - Paul Feyerabend (1975)
-* *Malafrena* - Ursula K. Le Guin (1979)
+* *Symbols: An Evolutionary History from the Stone Age to the Future* - Richard Sproat (2023)
 * *The Name of the Rose* - Umberto Eco (1980)
-
 
 ## Finished
 {{< book-list data="books" >}}
