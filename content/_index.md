@@ -60,6 +60,8 @@ I also maintain some lists, which you can find at the top.
 
 
 ## News
+* Aug 2025 -- Co-organizing the 35th edition of *Computational Linguistics in the Netherlands*
+* Aug 2025 -- PC for 2nd *UniDive Training School*
 * Mar 2025 -- Poster at *NoDaLiDa*, Tallin (Estonia)
 * Jan 2025 -- Attended *UniDive Third General Meeting*, Budapest (Hungary)
 * Nov 2024 -- Oral presentation at *EMNLP*, Miami (US)

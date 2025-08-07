@@ -15,7 +15,7 @@ If I know in which year I read a particular book, it will be listed at the end.
 
 * *Against Method* - Paul Feyerabend (1975)
 * *Symbols: An Evolutionary History from the Stone Age to the Future* - Richard Sproat (2023)
-* *The Name of the Rose* - Umberto Eco (1980)
+* *Au pair* - W.F. Hermans (1989)
 
 ## Finished
 {{< book-list data="books" >}}

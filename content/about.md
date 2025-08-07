@@ -23,13 +23,17 @@ Credits to [Rob van der Goot](https://robvanderg.github.io/cv/) for including 'r
 ## Teaching
 * Data Structures and Algorithms (*Gegevensstructuren en algoritmen*), BSc KU Leuven, 2024 - now
 * Natural Language Processing, MSc KU Leuven, 2024 - now
-* Supervisor for four master theses, MSc KU Leuven, 2024 - now
+* Master thesis supervisor, MSc KU Leuven, 2024 - now
 * Natural Language Processing -- Methods and Applications, MSc Technical University of Munich, 2023
 * Gave a workshop together with [Esther Ploeger](https://esther2000.github.io/) at the Language & Communication Technologies Summer School, Saarland University, 2022
 * Introduction to Programming I, BSc University of Groningen, 2019
 
 ## Service / Volunteering
+* Program Chair for 2nd [UniDive Training School](https://unidive.lisn.upsaclay.fr/doku.php?id=meetings:other-events:2nd_unidive_training_school), 2025
+* Co-organizer for 35th edition of [Computational Linguistics in the Netherlands](https://clin35.ccl.kuleuven.be/), 2025
 * Sub-group leader together with [Esther Ploeger](https://esther2000.github.io/) and member of WG3 & WG4 for the [Universality, diversity and idiosyncrasy in language technology (UniDive)](https://www.cost.eu/actions/CA21167/) Cost Action, 2024 - now
 * Software Developer, [Walter Schottky Institute](https://www.wsi.tum.de/) at the Techinal University of Munich, 2023 - now
-* Reviewing: ACL Rolling Review (EMNLP 2024 (emergency), NAACL 2024 (emergency), NAACL 2025), JURIX 2023, SemEval 2022
+* Reviewing: 
+  * ACL Rolling Review (since 2024)
+  * NAACL 2025, EMNLP 2024 (emergency), NAACL 2024 (emergency), JURIX 2023, SemEval 2022
  
