@@ -13,6 +13,7 @@ Before coming to Belgium, I worked at the [Technical University of Munich](https
 Before that, I completed a master's in Information Science at the [University of Groningen](https://www.rug.nl/) and worked for about two years as a machine learning engineer at [Web-IQ](https://web-iq.com/).
 You can find more details on my [about page](/about).
 
+
 Feel free to reach out: 
 
 `wessel.poelman` at `kuleuven.be`
@@ -22,7 +23,6 @@ or
 `contact` "[apenstaartje](https://ivdnt.org/actueel/columns-artikelen/apenstaartjes/)" `wesselpoelman.nl`
 
 
-## Some links
 | [KU Leuven](https://www.kuleuven.be/wieiswie/nl/person/00167945) | [Github](https://github.com/WPoelman)         | [LinkedIn](https://www.linkedin.com/in/wessel-poelman/)         | [Semantic Scholar](https://www.semanticscholar.org/author/Wessel-Poelman/2175481435) | [Google Scholar](https://scholar.google.com/citations?user=Eqz1qd0AAAAJ&hl=en) |
 
 ## Non-academic writing
@@ -48,7 +48,7 @@ I also maintain some lists, which you can find at the top.
 
 ---
 
-* [**A Principled Framework for Evaluating on Typologically Diverse Languages**](https://arxiv.org/abs/2407.05022) *Under review*
+* [**A Principled Framework for Evaluating on Typologically Diverse Languages**](https://arxiv.org/abs/2407.05022) To appear in *Computational Linguistics*
 
     Esther Ploeger, **Wessel Poelman**, Andreas Holck Høeg-Petersen, Anders Schlichtkrull, Miryam de Lhoneux & Johannes Bjerva.
 

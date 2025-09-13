@@ -1,13 +1,12 @@
 {{ partial "header.html" . }}
 <div class="article-head">
     <h1><span class="title">{{ .Title | markdownify }}</span></h1>
-    {{ with .Date }}
-    <h4>{{ . | time.Format ":date_medium" }}</h4>
-    {{ end }}
+    <h4>
+        {{ .Param "author" }} {{ with .Date }} - {{ . | time.Format
+        ":date_medium" }} {{ end }}
+    </h4>
 </div>
 
-<main>
-    {{ .Content }}
-</main>
+<main>{{ .Content }}</main>
 
 {{ partial "footer.html" . }}
