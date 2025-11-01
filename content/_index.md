@@ -36,30 +36,27 @@ I also maintain some lists, which you can find at the top.
 
 
 ## Selected Publications
-* [**The Roles of English in Evaluating Multilingual Language Models**](https://aclanthology.org/2025.nodalida-1.53) *NoDaLiDa / Baltic-HLT 2025*
+* [**Confounding Factors in Relating Model Performance to Morphology**](https://aclanthology.org/2025.emnlp-main.369/) -- *EMNLP 2025* -- **Oral Presentation**
+
+    **Wessel Poelman**\*, Thomas Bauwens\* & Miryam de Lhoneux.
+
+---
+
+* [**The Roles of English in Evaluating Multilingual Language Models**](https://aclanthology.org/2025.nodalida-1.53) -- *NoDaLiDa / Baltic-HLT 2025*
 
     **Wessel Poelman** & Miryam de Lhoneux.
 
 ---
 
-* [**What is ''Typological Diversity'' in NLP?**](https://aclanthology.org/2024.emnlp-main.326/) *EMNLP 2024, **Oral Presentation***
+* [**What is ''Typological Diversity'' in NLP?**](https://aclanthology.org/2024.emnlp-main.326/) -- *EMNLP 2024* -- **Oral Presentation**
 
     Esther Ploeger*, **Wessel Poelman***, Miryam de Lhoneux & Johannes Bjerva.
 
----
-
-* [**A Principled Framework for Evaluating on Typologically Diverse Languages**](https://arxiv.org/abs/2407.05022) To appear in *Computational Linguistics*
-
-    Esther Ploeger, **Wessel Poelman**, Andreas Holck Høeg-Petersen, Anders Schlichtkrull, Miryam de Lhoneux & Johannes Bjerva.
-
----
-
-* [**Transparent Semantic Parsing with Universal Dependencies Using Graph Transformations**](https://aclanthology.org/2022.coling-1.367/) *COLING 2022*
-
-    **Wessel Poelman**, Rik van Noord & Johan Bos.
 
 
 ## News
+* Nov 2025 -- Oral presentation at *EMNLP*, Suhzou (China)
+* Oct 2025 -- Talk at *Centre de Traitement Automatique du Langage (CENTAL)*, UCLouvain (Belgium)
 * Aug 2025 -- Co-organizing the 35th edition of *Computational Linguistics in the Netherlands*
 * Aug 2025 -- PC for 2nd *UniDive Training School*
 * Mar 2025 -- Poster at *NoDaLiDa*, Tallin (Estonia)
