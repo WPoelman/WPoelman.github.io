@@ -8,13 +8,13 @@ Kushal Tatariya\*, Artur Kulmizev\*, **Wessel Poelman**, Esther Ploeger, Marcel 
 
 
 ## 2025
-Kushal Tatariya\*, **Wessel Poelman**\* & Miryam de Lhoneux. On the Interplay Between Positional Encodings, Morphological Complexity, and Word Order Flexibility. To appear in *Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics* (IJCNLP-AACL)
+Kushal Tatariya\*, **Wessel Poelman**\* & Miryam de Lhoneux. [On the Interplay Between Positional Encodings, Morphological Complexity, and Word Order Flexibility](https://arxiv.org/abs/2511.08139) In *Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics* (IJCNLP-AACL)
 
 **Wessel Poelman**\*, Thomas Bauwens\* & Miryam de Lhoneux. [Confounding Factors in Relating Model Performance to Morphology](https://aclanthology.org/2025.emnlp-main.369/) In  *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing* (EMNLP)  [[paper](https://aclanthology.org/2025.emnlp-main.369/) • [code](https://github.com/LAGoM-NLP/ConfoundingFactors) • [extended abstract at MRL](https://aclanthology.org/2025.mrl-main.14/)] -- **Oral Presentation**
 
 Robin Kokot & **Wessel Poelman**. [Type and Complexity Signals in Multilingual Question Representations](https://aclanthology.org/2025.mrl-main.28/) In *Proceedings of the 5th Multilingual Representation Learning Workshop at EMNLP 2025* (MRL) [[paper](https://aclanthology.org/2025.mrl-main.28/) • [code](https://github.com/rokokot/qtype-eval) • [dataset](https://huggingface.co/datasets/rokokot/question-type-and-complexity)]
 
-Esther Ploeger, **Wessel Poelman**, Andreas Holck Høeg-Petersen, Anders Schlichtkrull, Miryam de Lhoneux & Johannes Bjerva. [A Principled Framework for Evaluating on Typologically Diverse Languages](https://arxiv.org/abs/2407.05022) To appear in *Computational Linguistics* (CL) [[paper](https://arxiv.org/abs/2407.05022) • [poster](/data/clin_2024_poster.pdf) • [code](https://github.com/esther2000/typdiv-sampling)]
+Esther Ploeger, **Wessel Poelman**, Andreas Holck Høeg-Petersen, Anders Schlichtkrull, Miryam de Lhoneux & Johannes Bjerva. [A Principled Framework for Evaluating on Typologically Diverse Languages](https://arxiv.org/abs/2407.05022) In *Computational Linguistics* (CL) [[paper](https://arxiv.org/abs/2407.05022) • [poster](/data/clin_2024_poster.pdf) • [code](https://github.com/esther2000/typdiv-sampling)]
 
 **Wessel Poelman** & Miryam de Lhoneux. [The Roles of English in Evaluating Multilingual Language Models](https://aclanthology.org/2025.nodalida-1.53) In *Proceedings of the Joint Nordic Conference on Computational Linguistics and Baltic Conference on Human Language Technologies* (NoDaLiDa / Baltic-HLT) [[paper](https://aclanthology.org/2025.nodalida-1.53) • [poster](/data/nodalida_2025_poster.pdf)]
 
