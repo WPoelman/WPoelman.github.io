@@ -1,10 +1,16 @@
 books:
+  - title: Ruisend Gruis
+    author: W. F. Hermans
+    pubYear: 1995
+    readYear: 2025
+    stars: 3.5
+    review: Nog steeds op de Hermans-tour. Een erg gestoord boek. We gaan van humor naar horror naar kritiek naar misschien een moraal? Het grootste compliment wat ik kan geven is dat ik geboeid was en geen idee had waar het verhaal heen ging. Ik heb een paar keer hardop gelachen in de eerste helft. De tweede helft had meer horror wat diende als een soort "afrekening" of "wraak". Ik zal geen details geven, het is het beste om dit te lezen zonder enige voorkennis. Voor maar 100 pagina's zitten er veel scènes tussen die je bijblijven. 
   - title: "Symbols: An Evolutionary History from the Stone Age to the Future"
     author: Richard Sproat
     pubYear: 2023
     readYear: 2025
     stars: 3
-    review: A specific book for a very specific audience. Sproat mainly outlines a taxonomy of written language / symbol systems and uses it to teach some intuitions about when something is "writing" and when it's not. The style is academic but clear, though some background knowledge about lanugage is expected. Perhaps the most specific part is about the evolution of writing systems; when did written language start and how did it develop? An elaborate simulation experiment with an attention-based RNN is used to track how morphemes, phonemes, and semantic concepts interact and develop. If that doesn't mean anything to you; a specific book for a specific audience. I enjoyed it as I'm sort of in the target audience (working in NLP, wanting to know more about the fundamentals of written language). I was hoping for a bit more detail in the later chapters. The "annoyance-based" research (my term, don't know what else to call it) regarding the Indus Script is very relatable and enjoyable to read, although I realize this was probably not the case for Sproat when writing those papers. Wikipedia has more info about this controversy.
+    review: A specific book for a very specific audience. Sproat mainly outlines a taxonomy of written language / symbol systems and uses it to teach some intuitions about when something is "writing" and when it's not. The style is academic but clear, though some background knowledge about language is expected. Perhaps the most specific part is about the evolution of writing systems; when did written language start and how did it develop? An elaborate simulation experiment with an attention-based RNN is used to track how morphemes, phonemes, and semantic concepts interact and develop. If that doesn't mean anything to you; a specific book for a specific audience. I enjoyed it as I'm sort of in the target audience (working in NLP, wanting to know more about the fundamentals of written language). I was hoping for a bit more detail in the later chapters. The "annoyance-based" research (my term, don't know what else to call it) regarding the Indus Script is very relatable and enjoyable to read, although I realize this was probably not the case for Sproat when writing those papers. Wikipedia has more info about this controversy.
   - title: Nooit Meer Slapen
     author: W. F. Hermans
     pubYear: 1966
