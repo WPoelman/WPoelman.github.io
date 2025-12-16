@@ -44,6 +44,10 @@ The ordering is semi-random, some successive quotes are on purpose.
 >
 > -- *Vernietigen, Michel Houellebecq*
 
+> Haar carrière had kortom een vliegende start gemaakt, en die eerste reden tot vreugde werk gevolgd door een tweede toen de vlucht Air France 232 met bestemming Rio de Janeiro midden boven de zuidelijke Atlantische Oceaan op een zondag in maart in zee stortte. Er was geen enkele overlevende, en Clairs moeder was een van de passagiers.
+>
+> -- *Serotonine, Michel Houellebecq, p. 90*
+
 > "Geen gevoel in m'n smoel, gehavend door het leven." 
 >
 > -- *Dromen van Karton, De Jeugd van Tegenwoordig*
