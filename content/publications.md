@@ -7,6 +7,11 @@ title: Publications
 Kushal Tatariya\*, Artur Kulmizev\*, **Wessel Poelman**, Esther Ploeger, Marcel Bollmann, Johannes Bjerva, Jiaming Luo, Heather Lent & Miryam de Lhoneux. [How Good Is Your Wikipedia? Auditing Data Quality for Low-resource and Multilingual NLP](https://arxiv.org/abs/2411.05527) *Pre-print, under review* [[paper](https://arxiv.org/abs/2411.05527) • [code](https://github.com/akulmizev/Wikipedia_Quality_Estimation)]
 
 
+## 2026
+**Wessel Poelman** & Miryam de Lhoneux. [Form and Meaning in Intrinsic Multilingual Evaluations]() To appear in *Proceedings of the Conference of the European Chapter of the Association for Computational Linguistics* (EACL)
+
+Stef Accou & **Wessel Poelman**. [Typologically Informed Parameter Aggregation]() To appear in *Findings of the Association for Computational Linguistics: EACL* (EACL Findings)
+
 ## 2025
 Kushal Tatariya\*, **Wessel Poelman**\* & Miryam de Lhoneux. [On the Interplay Between Positional Encodings, Morphological Complexity, and Word Order Flexibility](https://arxiv.org/abs/2511.08139) In *Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics* (IJCNLP-AACL)
 
