@@ -8,12 +8,12 @@ Kushal Tatariya\*, Artur Kulmizev\*, **Wessel Poelman**, Esther Ploeger, Marcel 
 
 
 ## 2026
-**Wessel Poelman** & Miryam de Lhoneux. [Form and Meaning in Intrinsic Multilingual Evaluations]() To appear in *Proceedings of the Conference of the European Chapter of the Association for Computational Linguistics* (EACL)
+**Wessel Poelman** & Miryam de Lhoneux. [Form and Meaning in Intrinsic Multilingual Evaluations](https://arxiv.org/abs/2601.10580) To appear in *Proceedings of the Conference of the European Chapter of the Association for Computational Linguistics* (EACL)
 
 Stef Accou & **Wessel Poelman**. [Typologically Informed Parameter Aggregation]() To appear in *Findings of the Association for Computational Linguistics: EACL* (EACL Findings)
 
 ## 2025
-Kushal Tatariya\*, **Wessel Poelman**\* & Miryam de Lhoneux. [On the Interplay Between Positional Encodings, Morphological Complexity, and Word Order Flexibility](https://arxiv.org/abs/2511.08139) In *Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics* (IJCNLP-AACL)
+Kushal Tatariya\*, **Wessel Poelman**\* & Miryam de Lhoneux. [On the Interplay Between Positional Encodings, Morphological Complexity, and Word Order Flexibility](https://aclanthology.org/2025.ijcnlp-long.95/) In *Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics* (IJCNLP-AACL)
 
 **Wessel Poelman**\*, Thomas Bauwens\* & Miryam de Lhoneux. [Confounding Factors in Relating Model Performance to Morphology](https://aclanthology.org/2025.emnlp-main.369/) In  *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing* (EMNLP)  [[paper](https://aclanthology.org/2025.emnlp-main.369/) • [code](https://github.com/LAGoM-NLP/ConfoundingFactors) • [extended abstract at MRL](https://aclanthology.org/2025.mrl-main.14/)] -- **Oral Presentation**
 
