@@ -8,14 +8,14 @@ Kushal Tatariya\*, Artur Kulmizev\*, **Wessel Poelman**, Esther Ploeger, Marcel 
 
 
 ## 2026
-**Wessel Poelman** & Miryam de Lhoneux. [Form and Meaning in Intrinsic Multilingual Evaluations](https://arxiv.org/abs/2601.10580) To appear in *Proceedings of the Conference of the European Chapter of the Association for Computational Linguistics* (EACL)
+**Wessel Poelman** & Miryam de Lhoneux. [Form and Meaning in Intrinsic Multilingual Evaluations](https://arxiv.org/abs/2601.10580) To appear in *Proceedings of the Conference of the European Chapter of the Association for Computational Linguistics* (EACL) -- **Oral Presentation**
 
 Stef Accou & **Wessel Poelman**. [Typologically Informed Parameter Aggregation](http://arxiv.org/abs/2601.16629) To appear in *Findings of the Association for Computational Linguistics: EACL* (EACL Findings)
 
 ## 2025
 Kushal Tatariya\*, **Wessel Poelman**\* & Miryam de Lhoneux. [On the Interplay Between Positional Encodings, Morphological Complexity, and Word Order Flexibility](https://aclanthology.org/2025.ijcnlp-long.95/) In *Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics* (IJCNLP-AACL)
 
-**Wessel Poelman**\*, Thomas Bauwens\* & Miryam de Lhoneux. [Confounding Factors in Relating Model Performance to Morphology](https://aclanthology.org/2025.emnlp-main.369/) In  *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing* (EMNLP)  [[paper](https://aclanthology.org/2025.emnlp-main.369/) • [code](https://github.com/LAGoM-NLP/ConfoundingFactors) • [extended abstract at MRL](https://aclanthology.org/2025.mrl-main.14/)] -- **Oral Presentation**
+**Wessel Poelman**\*, Thomas Bauwens\* & Miryam de Lhoneux. [Confounding Factors in Relating Model Performance to Morphology](https://aclanthology.org/2025.emnlp-main.369/) In  *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing* (EMNLP)  [[paper](https://aclanthology.org/2025.emnlp-main.369/) • [poster](/data/emnlp_2025_poster.pdf) • [slides](/data/emnlp_2025_slides.pdf) • [code](https://github.com/LAGoM-NLP/ConfoundingFactors) • [extended abstract at MRL](https://aclanthology.org/2025.mrl-main.14/)] -- **Oral Presentation** -- **Nominated for Paper Award**
 
 Robin Kokot & **Wessel Poelman**. [Type and Complexity Signals in Multilingual Question Representations](https://aclanthology.org/2025.mrl-main.28/) In *Proceedings of the 5th Multilingual Representation Learning Workshop at EMNLP 2025* (MRL) [[paper](https://aclanthology.org/2025.mrl-main.28/) • [code](https://github.com/rokokot/qtype-eval) • [dataset](https://huggingface.co/datasets/rokokot/question-type-and-complexity)]
 
