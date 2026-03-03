@@ -4,6 +4,8 @@ title: Publications
 
 ## In progress
 
+**Wessel Poelman**, Yiyi Chen & Miryam de Lhoneux. [QQ: A Toolkit for Language Identifiers and Metadata](https://arxiv.org/abs/2603.00620) *Pre-print, under review* [[paper](https://arxiv.org/abs/2603.00620) • [code](https://github.com/WPoelman/qwanqwa)]
+
 Kushal Tatariya\*, Artur Kulmizev\*, **Wessel Poelman**, Esther Ploeger, Marcel Bollmann, Johannes Bjerva, Jiaming Luo, Heather Lent & Miryam de Lhoneux. [How Good Is Your Wikipedia? Auditing Data Quality for Low-resource and Multilingual NLP](https://arxiv.org/abs/2411.05527) *Pre-print, under review* [[paper](https://arxiv.org/abs/2411.05527) • [code](https://github.com/akulmizev/Wikipedia_Quality_Estimation)]
 
 
