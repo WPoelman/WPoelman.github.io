@@ -10,9 +10,9 @@ Kushal Tatariya\*, Artur Kulmizev\*, **Wessel Poelman**, Esther Ploeger, Marcel 
 
 
 ## 2026
-**Wessel Poelman** & Miryam de Lhoneux. [Form and Meaning in Intrinsic Multilingual Evaluations](https://arxiv.org/abs/2601.10580) To appear in *Proceedings of the Conference of the European Chapter of the Association for Computational Linguistics* (EACL) -- **Oral Presentation**
+**Wessel Poelman** & Miryam de Lhoneux. [Form and Meaning in Intrinsic Multilingual Evaluations](https://aclanthology.org/2026.eacl-long.113/) In *Proceedings of the Conference of the European Chapter of the Association for Computational Linguistics* (EACL) -- **Oral Presentation**
 
-Stef Accou & **Wessel Poelman**. [Typologically Informed Parameter Aggregation](http://arxiv.org/abs/2601.16629) To appear in *Findings of the Association for Computational Linguistics: EACL* (EACL Findings)
+Stef Accou & **Wessel Poelman**. [Typologically Informed Parameter Aggregation](https://aclanthology.org/2026.findings-eacl.119/) In *Findings of the Association for Computational Linguistics: EACL* (EACL Findings)
 
 ## 2025
 Kushal Tatariya\*, **Wessel Poelman**\* & Miryam de Lhoneux. [On the Interplay Between Positional Encodings, Morphological Complexity, and Word Order Flexibility](https://aclanthology.org/2025.ijcnlp-long.95/) In *Proceedings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics* (IJCNLP-AACL) [[paper](https://aclanthology.org/2025.ijcnlp-long.95/) • [poster](/data/aacl_2025_poster.pdf) • [slides](/data/aacl_2025_slides.pdf)]
