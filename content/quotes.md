@@ -11,6 +11,10 @@ I will be updating this page when I (re-)find more nice quotes.
 Note that I throw everything in here; some reader discretion is advised (nothing too spicy).
 The ordering is semi-random, some successive quotes are on purpose.
 
+> "What is an up and coming neighborhood and where is it coming from?"
+>
+> -- *Violence, Parquet Courts*
+
 > "Teleurstelling wordt als iets kwalijks gezien. 
 > Een ondoordacht vooroordeel. Waardoor anders dan door teleurstelling, komen we er achter wat we hebben verwacht en gehoopt?
 > En waardoor anders dan door die ontdekking zouden we tot zelfkennis moeten komen?
