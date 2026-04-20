@@ -7,7 +7,10 @@ title: Home
 {{< figure src="img/cropped_pf.jpeg" width="320" class="right" >}}
 
 I work at the [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html) as a PhD student in the [LAGoM](https://www.lagom.cs.kuleuven.be/) group of [Miryam de Lhoneux](https://people.cs.kuleuven.be/~miryam.delhoneux/).
-My research focuses on multilingual natural language processing, in particular: incorporating under-used resources, evaluation and sampling.
+
+I'm interested in multilingual natural language processing (NLP) in a broad sense (from tokenization to evaluation).
+My current focus is on experimental practices in multilingual NLP;  how do we know we're making the progress we think we're making?
+This includes carefully thinking about which languages are used in experiments, which assumptions are made about model architectures and evaluations, and how differences between languages impact this.
 
 Before coming to Belgium, I worked at the [Technical University of Munich](https://www.tum.de/en/) in Germany for half a year as a research associate (Wissenschaftlicher Mitarbeiter).
 Before that, I completed a master's in Information Science at the [University of Groningen](https://www.rug.nl/) and worked for about two years as a machine learning engineer at [Web-IQ](https://web-iq.com/).
@@ -31,14 +34,21 @@ I also maintain some lists, which you can find at the top.
 
 ## Projects
 1. [`qwanqwa`](https://github.com/WPoelman/qwanqwa): a toolkit to work with a large variety of language metadata (identifiers, speaker information, locales, ...)
-2. [`typdiv-sampling`](https://github.com/esther2000/typdiv-sampling): a framework to create and evaluate language samples (together with [Esther Ploeger](https://esther2000.github.io/))
-3. [`ud-boxer`](https://github.com/WPoelman/ud-boxer): DRS parsing with Universal Dependencies
+2. [`planit`](https://github.com/WPoelman/planit): declarative SLURM workflows in Python
+3. [`typdiv-sampling`](https://github.com/esther2000/typdiv-sampling): a framework to create and evaluate language samples (together with [Esther Ploeger](https://esther2000.github.io/))
 
 
 ## Selected Publications
 * [**Confounding Factors in Relating Model Performance to Morphology**](https://aclanthology.org/2025.emnlp-main.369/) -- *EMNLP 2025* -- **Oral Presentation**
 
     **Wessel Poelman**\*, Thomas Bauwens\* & Miryam de Lhoneux.
+
+---
+
+
+* [**Form and Meaning in Intrinsic Multilingual Evaluations**](https://aclanthology.org/2026.eacl-long.113/) -- *EACL 2026* -- **Oral Presentation**
+
+    **Wessel Poelman*** & Miryam de Lhoneux.
 
 ---
 
@@ -55,6 +65,12 @@ I also maintain some lists, which you can find at the top.
 
 
 ## News
+* Jun 2026 -- I'm joining [Barbara Plank](https://mainlp.github.io/) her lab at LMU for a three month research stay this summer. Thank you UniDive!
+* Apr 2026 -- The Wiki project is (finally) accepted at *ACL*, congrats Kushal and Artur!
+* Mar 2026 -- Two papers at *EACL*, Rabat (Morocco)
+* Mar 2026 -- Attended the fourth edition of *HumanCLAIM*, Göttingen (DE)
+* Dec 2025 -- Short research visit in Copenhagen (Denmark). Talks at Aalborg University and ITU. Thank you DDSA!
+* Dec 2025 -- Paper with Kushal at *AACL*
 * Nov 2025 -- Oral presentation at *EMNLP*, Suhzou (China)
 * Oct 2025 -- Talk at *Centre de Traitement Automatique du Langage (CENTAL)*, UCLouvain (Belgium)
 * Aug 2025 -- Co-organizing the 35th edition of *Computational Linguistics in the Netherlands*

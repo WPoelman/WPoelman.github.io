@@ -6,10 +6,9 @@ title: Publications
 
 **Wessel Poelman**, Yiyi Chen & Miryam de Lhoneux. [QQ: A Toolkit for Language Identifiers and Metadata](https://arxiv.org/abs/2603.00620) *Pre-print, under review* [[paper](https://arxiv.org/abs/2603.00620) • [code](https://github.com/WPoelman/qwanqwa)]
 
-Kushal Tatariya\*, Artur Kulmizev\*, **Wessel Poelman**, Esther Ploeger, Marcel Bollmann, Johannes Bjerva, Jiaming Luo, Heather Lent & Miryam de Lhoneux. [How Good Is Your Wikipedia? Auditing Data Quality for Low-resource and Multilingual NLP](https://arxiv.org/abs/2411.05527) *Pre-print, under review* [[paper](https://arxiv.org/abs/2411.05527) • [code](https://github.com/akulmizev/Wikipedia_Quality_Estimation)]
-
-
 ## 2026
+Kushal Tatariya\*, Artur Kulmizev\*, **Wessel Poelman**, Esther Ploeger, Marcel Bollmann, Johannes Bjerva, Jiaming Luo, Heather Lent & Miryam de Lhoneux. [How Good Is Your Wikipedia? Auditing Data Quality for Low-resource and Multilingual NLP](https://arxiv.org/abs/2411.05527) To appear in *Proceedings of the 64rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)* (ACL) [[paper](https://arxiv.org/abs/2411.05527) • [code](https://github.com/akulmizev/Wikipedia_Quality_Estimation)]
+
 **Wessel Poelman** & Miryam de Lhoneux. [Form and Meaning in Intrinsic Multilingual Evaluations](https://aclanthology.org/2026.eacl-long.113/) In *Proceedings of the Conference of the European Chapter of the Association for Computational Linguistics* (EACL) -- **Oral Presentation**
 
 Stef Accou & **Wessel Poelman**. [Typologically Informed Parameter Aggregation](https://aclanthology.org/2026.findings-eacl.119/) In *Findings of the Association for Computational Linguistics: EACL* (EACL Findings)
