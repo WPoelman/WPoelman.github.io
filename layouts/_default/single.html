@@ -2,7 +2,7 @@
 <div class="page-shell">
     <div class="page-main">
         <div class="article-head">
-            <h1><span class="title">{{ .Title | markdownify }}</span></h1>
+            <h1>{{ .Title | markdownify }}</h1>
             {{ $author := .Param "author" }}
             {{ if or $author .Date }}
             <h4>
@@ -12,7 +12,7 @@
             {{ end }}
         </div>
 
-        <main class="content-page content-{{ .File.BaseFileName }}">{{ .Content }}</main>
+        <main class="content-page content-{{ .File.BaseFileName }} content-section-{{ .Section }}">{{ .Content }}</main>
     </div>
 </div>
 

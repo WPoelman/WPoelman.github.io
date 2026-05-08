@@ -25,7 +25,7 @@ name = "Posts"
 url = "posts/"
 weight = 4
 [[menu.main]]
-name = "Books"
+name = "Reading List"
 url = "books/"
 weight = 5
 # [[menu.main]]
@@ -38,7 +38,7 @@ weight = 5
 
 [markup]
   [markup.highlight]
-  codeFences = false
+  codeFences = true
   [markup.goldmark]
     [markup.goldmark.renderer]
     unsafe = true

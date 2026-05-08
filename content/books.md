@@ -1,5 +1,5 @@
 ---
-title: Boeken / Books
+title: Reading List
 ---
 
 {{< book-list data="books" >}}

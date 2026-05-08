@@ -1,8 +1,6 @@
-<li>
-    <ul>
-        <li>
-            <i>{{ .title}}</i> ({{ .pubYear}}) - {{ .author}} {{with .stars }} | {{ partial "stars" . }} {{ end }} {{ with .readYear }} | 
-            <b>{{ . }}</b> {{ end }}
-            {{with .review }}<li><p class="review">{{ .}}</p></li> {{ end }}
-    </ul>
+<li class="book-item">
+    <p class="book-entry">
+        <i>{{ .title }}</i> ({{ .pubYear }}) - {{ .author }}{{ with .stars }} | {{ partial "stars" . }}{{ end }}{{ with .readYear }} | <b>{{ . }}</b>{{ end }}
+    </p>
+    {{ with .review }}<p class="review">{{ . }}</p>{{ end }}
 </li>

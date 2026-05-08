@@ -10,7 +10,6 @@ sections:
         authors_html: "<strong>Wessel Poelman</strong>, Yiyi Chen &amp; Miryam de Lhoneux."
         summary_html: "<em>Pre-print, under review.</em>"
         card_venue: Preprint
-        card_meta: research software
         links:
           - label: paper
             url: https://arxiv.org/abs/2603.00620

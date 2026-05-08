@@ -10,8 +10,6 @@ Feel free to send me some samples, I'll decide if they are egregious enough to m
 A next step would be automatic collection of these, but that removes some of the fun of encountering them in the wild.
 I'm leaving that be for now.
 
-Last updated: Jan 06, 2025.
-
 ## The list (alphabetical order)
 
 * [ART: rule bAsed futuRe-inference deducTion](https://aclanthology.org/2023.emnlp-main.592/)
