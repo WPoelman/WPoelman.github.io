@@ -1,12 +1,19 @@
 {{ partial "header.html" . }}
-<div class="article-head">
-    <h1><span class="title">{{ .Title | markdownify }}</span></h1>
-    <h4>
-        {{ .Param "author" }} {{ with .Date }} - {{ . | time.Format
-        ":date_medium" }} {{ end }}
-    </h4>
-</div>
+<div class="page-shell">
+    <div class="page-main">
+        <div class="article-head">
+            <h1><span class="title">{{ .Title | markdownify }}</span></h1>
+            {{ $author := .Param "author" }}
+            {{ if or $author .Date }}
+            <h4>
+                {{ $author }}{{ if and $author .Date }} - {{ end }}{{ with .Date }}{{ . | time.Format
+                ":date_medium" }}{{ end }}
+            </h4>
+            {{ end }}
+        </div>
 
-<main>{{ .Content }}</main>
+        <main class="content-page content-{{ .File.BaseFileName }}">{{ .Content }}</main>
+    </div>
+</div>
 
 {{ partial "footer.html" . }}

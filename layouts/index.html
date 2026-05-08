@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+
+<div class="page-shell">
+  <div class="page-main">
+    <main class="home-page">
+      <h1>{{ .Site.Title }}</h1>
+      {{ .Content }}
+    </main>
+  </div>
+</div>
+
+{{ partial "footer.html" . }}

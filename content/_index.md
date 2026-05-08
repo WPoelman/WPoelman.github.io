@@ -2,85 +2,36 @@
 title: Home
 ---
 
-# Wessel Poelman
+{{< figure src="img/cropped_pf.jpeg" width="260" class="profile-photo" >}}
 
-{{< figure src="img/cropped_pf.jpeg" width="320" class="right" >}}
+I work as a PhD student at [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html), where I am part of [LAGoM](https://www.lagom.cs.kuleuven.be/) under the supervision of [Miryam de Lhoneux](https://people.cs.kuleuven.be/~miryam.delhoneux/). My research asks a simple question: how do we know that multilingual NLP systems are improving for the reasons we think they are?
 
-I work at the [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html) as a PhD student in the [LAGoM](https://www.lagom.cs.kuleuven.be/) group of [Miryam de Lhoneux](https://people.cs.kuleuven.be/~miryam.delhoneux/).
+Before coming to Belgium, I worked at the [Technical University of Munich](https://www.tum.de/en/) as a research associate, completed a master's in Information Science at the [University of Groningen](https://www.rug.nl/), and worked as a machine learning engineer at [Web-IQ](https://web-iq.com/). More info [here](/about/) or on my <a href="/data/wessel-poelman-academic-cv.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
 
-I'm interested in multilingual natural language processing (NLP) in a broad sense (from tokenization to evaluation).
-My current focus is on experimental practices in multilingual NLP;  how do we know we're making the progress we think we're making?
-This includes carefully thinking about which languages are used in experiments, which assumptions are made about model architectures and evaluations, and how differences between languages impact this.
+[KU Leuven Profile](https://www.kuleuven.be/wieiswie/nl/person/00167945) · [Google Scholar](https://scholar.google.com/citations?user=Eqz1qd0AAAAJ&hl=en) · [Semantic Scholar](https://www.semanticscholar.org/author/Wessel-Poelman/2175481435) · [GitHub](https://github.com/WPoelman)
 
-Before coming to Belgium, I worked at the [Technical University of Munich](https://www.tum.de/en/) in Germany for half a year as a research associate (Wissenschaftlicher Mitarbeiter).
-Before that, I completed a master's in Information Science at the [University of Groningen](https://www.rug.nl/) and worked for about two years as a machine learning engineer at [Web-IQ](https://web-iq.com/).
-You can find more details on my [about page](/about).
+**Contact:** `wessel.poelman` at `kuleuven.be` or `contact` at `wesselpoelman.nl`
 
+## Research
 
-Feel free to reach out: 
+My work focuses on multilingual natural language processing: language sampling, tokenization, modeling choices, and evaluation. I am particularly interested in how linguistic differences between languages influence both model behavior and the claims we make about multilingual systems.
 
-`wessel.poelman` at `kuleuven.be`
+Current themes:
 
-or
-
-`contact` "[apenstaartje](https://ivdnt.org/actueel/columns-artikelen/apenstaartjes/)" `wesselpoelman.nl`
-
-
-| [KU Leuven](https://www.kuleuven.be/wieiswie/nl/person/00167945) | [Github](https://github.com/WPoelman)         | [LinkedIn](https://www.linkedin.com/in/wessel-poelman/)         | [Semantic Scholar](https://www.semanticscholar.org/author/Wessel-Poelman/2175481435) | [Google Scholar](https://scholar.google.com/citations?user=Eqz1qd0AAAAJ&hl=en) |
-
-## Non-academic writing
-I occasionally [write](/post) about (strange) things I find interesting.
-I also maintain some lists, which you can find at the top.
-
-## Projects
-1. [`qwanqwa`](https://github.com/WPoelman/qwanqwa): a toolkit to work with a large variety of language metadata (identifiers, speaker information, locales, ...)
-2. [`planit`](https://github.com/WPoelman/planit): declarative SLURM workflows in Python
-3. [`typdiv-sampling`](https://github.com/esther2000/typdiv-sampling): a framework to create and evaluate language samples (together with [Esther Ploeger](https://esther2000.github.io/))
-
+1. evaluation and experimentation methodology for multilingual NLP
+2. interaction of language characteristics (typology, morphology) and NLP
+3. tooling for multilingual language technology
 
 ## Selected Publications
-* [**Confounding Factors in Relating Model Performance to Morphology**](https://aclanthology.org/2025.emnlp-main.369/) -- *EMNLP 2025* -- **Oral Presentation**
 
-    **Wessel Poelman**\*, Thomas Bauwens\* & Miryam de Lhoneux.
+{{< featured-pubs >}}
 
----
+For a complete list, see my [publications page](/publications/).
 
+## Recent News
 
-* [**Form and Meaning in Intrinsic Multilingual Evaluations**](https://aclanthology.org/2026.eacl-long.113/) -- *EACL 2026* -- **Oral Presentation**
-
-    **Wessel Poelman*** & Miryam de Lhoneux.
-
----
-
-* [**The Roles of English in Evaluating Multilingual Language Models**](https://aclanthology.org/2025.nodalida-1.53) -- *NoDaLiDa / Baltic-HLT 2025*
-
-    **Wessel Poelman** & Miryam de Lhoneux.
-
----
-
-* [**What is ''Typological Diversity'' in NLP?**](https://aclanthology.org/2024.emnlp-main.326/) -- *EMNLP 2024* -- **Oral Presentation**
-
-    Esther Ploeger*, **Wessel Poelman***, Miryam de Lhoneux & Johannes Bjerva.
-
-
-
-## News
-* Jun 2026 -- I'm joining [Barbara Plank](https://mainlp.github.io/) her lab at LMU for a three month research stay this summer. Thank you UniDive!
-* Apr 2026 -- The Wiki project is (finally) accepted at *ACL*, congrats Kushal and Artur!
-* Mar 2026 -- Two papers at *EACL*, Rabat (Morocco)
-* Mar 2026 -- Attended the fourth edition of *HumanCLAIM*, Göttingen (DE)
-* Dec 2025 -- Short research visit in Copenhagen (Denmark). Talks at Aalborg University and ITU. Thank you DDSA!
-* Dec 2025 -- Paper with Kushal at *AACL*
-* Nov 2025 -- Oral presentation at *EMNLP*, Suhzou (China)
-* Oct 2025 -- Talk at *Centre de Traitement Automatique du Langage (CENTAL)*, UCLouvain (Belgium)
-* Aug 2025 -- Co-organizing the 35th edition of *Computational Linguistics in the Netherlands*
-* Aug 2025 -- PC for 2nd *UniDive Training School*
-* Mar 2025 -- Poster at *NoDaLiDa*, Tallin (Estonia)
-* Jan 2025 -- Attended *UniDive Third General Meeting*, Budapest (Hungary)
-* Nov 2024 -- Oral presentation at *EMNLP*, Miami (US)
-* Aug 2024 -- Poster at *Computational Linguistics in the Netherlands*, Leiden University (Netherlands)
-* Jul 2024 -- Attended *Lisbon Machine Learning School* (LxMLS), Instituto Superior Técnico (Portugal)
-* May 2024 -- Poster at *Leuven.AI: Science of AI* workshop, KU Leuven (Belgium)
-* Jan 2024 -- Poster at *Human Perspective on Cross-Lingual AI Models*, VU Amsterdam (Netherlands)
-* Sep 2023 -- Presentation at *Computational Linguistics in the Netherlands*, University of Antwerp (Belgium)
-* Aug 2023 -- Attended  *European Summer School In Logic, Language and Information* (ESSLLI), University of Ljubljana (Slovenia)
+- **Jun 2026.** Joining [Barbara Plank](https://mainlp.github.io/) at LMU for a three-month research stay.
+- **Apr 2026.** Paper on multilingual Wikipedia data quality accepted at *ACL*.
+- **Mar 2026.** Two papers at *EACL*.
+- **Dec 2025.** Research visit in Copenhagen, with talks at Aalborg University and ITU.
+- **Nov 2025.** Oral presentation at *EMNLP*.

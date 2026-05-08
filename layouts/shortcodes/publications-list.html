@@ -1,0 +1,25 @@
+<div class="publications-list">
+  {{ range $.Site.Data.pubs.sections }}
+  <section class="publications-year-block">
+    <h2 class="publications-year">{{ .title }}</h2>
+    {{ range .items }}
+    <article class="publications-entry">
+      <div class="publications-line publications-title">
+        <a href="{{ .title_url }}">{{ .title }}</a>
+      </div>
+      <div class="publications-line publications-authors">
+        {{ .authors_html | safeHTML }}
+      </div>
+      <div class="publications-line publications-venue">
+        {{ .summary_html | safeHTML }}
+      </div>
+      {{ with .links }}
+      <div class="publications-line publications-supplementary">
+        {{ range $idx, $link := . }}{{ if gt $idx 0 }}<span class="pub-sep">•</span> {{ end }}<a href="{{ $link.url }}">{{ $link.label }}</a>{{ end }}
+      </div>
+      {{ end }}
+    </article>
+    {{ end }}
+  </section>
+  {{ end }}
+</div>

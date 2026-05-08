@@ -12,7 +12,11 @@
 </head>
 
 <body>
-  <nav>
+  <header class="site-header">
+    <div class="site-title-wrap">
+      <a class="site-title" href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
+    </div>
+    <nav class="site-nav">
     <ul class="menu">
       {{ range $index, $element := .Site.Menus.main }}
       <li>
@@ -27,4 +31,5 @@
       {{ end }}
     </ul>
     <hr />
-  </nav>
+    </nav>
+  </header>

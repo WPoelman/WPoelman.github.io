@@ -1,0 +1,30 @@
+<div class="selected-pubs">
+  {{ range $.Site.Data.pubs.sections }}
+    {{ range .items }}
+      {{ if .featured }}
+      <article class="pub-card">
+        <div class="pub-card-thumb">
+          <img src="{{ .image }}" alt="{{ .image_alt }}">
+        </div>
+        <div class="pub-card-body">
+          <h3><a href="{{ .title_url }}">{{ .title }}</a></h3>
+          <p class="pub-card-authors">{{ .authors_html | safeHTML }}</p>
+          <p class="pub-card-meta">
+            <span class="pub-venue">{{ .card_venue }}</span>
+            {{ with .card_meta }}<span class="pub-sep">•</span> {{ . }}{{ end }}
+          </p>
+          {{ with .card_links }}
+          <p class="pub-card-links">
+            {{ range $idx, $link := . }}
+              {{ if gt $idx 0 }}<span class="pub-sep">•</span> {{ end }}
+              <a href="{{ $link.url }}">{{ $link.label }}</a>
+            {{ end }}
+          </p>
+          {{ end }}
+        </div>
+      </article>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</div>
+<p class="pub-note">* shared first authorship</p>

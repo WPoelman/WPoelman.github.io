@@ -11,12 +11,40 @@
 body {
   max-width: 800px;
   margin: auto;
-  padding: 1em;
+  padding: 2.2em 1em 1em;
+  font-size: 115%;
   line-height: 1.5;
+  color: #111;
+  background: #fbfbf8;
+  position: relative;
+}
+
+.site-header {
+  margin-bottom: 1.4rem;
+}
+
+.site-title-wrap {
+  text-align: center;
+  margin: 0.4rem 0 0.8rem;
+}
+
+.site-title {
+  display: inline-block;
+  font-size: 2rem;
+  letter-spacing: -0.02em;
+  text-decoration: none;
+  color: #111;
+}
+
+.site-title:hover,
+.site-title:focus {
+  text-decoration: none;
+  color: #111;
 }
 
 .menu {
   padding: 0;
+  margin: 0;
 }
 
 .menu li {
@@ -25,16 +53,19 @@ body {
 
 .article-meta,
 .menu a {
-  text-decoration: none;
-  background: var(--off-white);
-  border-bottom-color: var(--secondary-color);
-  border-bottom-style: dotted;
-  padding: 5px;
-  margin-right: 1em;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: var(--primary-color);
+  text-decoration-thickness: 0.18em;
+  text-underline-offset: 0.16em;
+  border: none;
+  padding: 0 0 0.15rem;
+  margin-right: 1rem;
+  background: transparent;
 }
 
 .menu a:hover {
-  text-decoration: underline;
+  text-decoration-color: var(--secondary-color);
 }
 
 
@@ -43,6 +74,14 @@ body {
 footer {
   text-align: center;
 
+}
+
+.site-nav hr {
+  margin-top: 0.85rem;
+}
+
+.page-main {
+  min-width: 0;
 }
 
 .article-meta h2 {
@@ -117,7 +156,8 @@ body {
 }
 
 main p {
-  text-align: justify;
+  text-align: left;
+  max-width: 70ch;
 }
 
 blockquote {
@@ -172,6 +212,118 @@ h4,
 h5,
 h6 {
   border-bottom: 2px solid var(--secondary-color);
+  width: fit-content;
+}
+
+h1 {
+  border-bottom: 2px dotted var(--gray-accent);
+  padding-bottom: 0.08rem;
+  margin-bottom: 0.8rem;
+}
+
+h1,
+h2,
+h3 {
+  letter-spacing: -0.01em;
+}
+
+.content-about a[href$="wessel-poelman-academic-cv.pdf"] {
+  display: inline-block;
+  margin: 0.5rem 0 0.9rem;
+}
+
+.home-page>figure+p {
+  font-size: 1.12rem;
+  line-height: 1.45;
+  max-width: 44rem;
+}
+
+.profile-photo {
+  float: right;
+  max-width: 260px;
+  margin: 0.2rem 0 1rem 2rem;
+}
+
+.profile-photo img {
+  border-radius: 4px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+}
+
+.home-page>p,
+.home-page>ul,
+.home-page>ol {
+  max-width: 70ch;
+}
+
+.selected-pubs {
+  display: grid;
+  gap: 1.2rem;
+  margin: 1.2rem 0 0.8rem;
+}
+
+.pub-card {
+  display: grid;
+  grid-template-columns: 180px minmax(0, 1fr);
+  gap: 1rem;
+  align-items: start;
+  padding: 1rem;
+  background: #fff;
+  border: 1px solid var(--gray-accent-light);
+}
+
+.pub-card-thumb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 120px;
+  background: #fcfcfa;
+  border: 1px solid var(--off-white);
+  padding: 0.5rem;
+}
+
+.pub-card-thumb img {
+  display: block;
+  max-width: 100%;
+  max-height: 150px;
+  width: auto;
+  height: auto;
+}
+
+.pub-card-body h3 {
+  margin: 0 0 0.4rem;
+  border-bottom: none;
+  font-size: 1.12rem;
+}
+
+.pub-card-body p {
+  margin: 0.2rem 0;
+  max-width: none;
+}
+
+.pub-card-authors {
+  font-size: 0.98rem;
+}
+
+.pub-card-meta,
+.pub-card-links {
+  font-size: 0.95rem;
+  color: var(--dark-gray);
+}
+
+.selected-pubs+p {
+  margin-top: 0.5rem;
+  font-size: 0.92rem;
+  color: var(--dark-gray);
+}
+
+.pub-venue {
+  font-style: italic;
+  color: #111;
+}
+
+.pub-sep {
+  color: var(--gray-accent);
+  padding: 0 0.25rem;
 }
 
 .book-list,
@@ -187,6 +339,37 @@ ul li {
   padding: 0em;
 }
 
+.star-rating {
+  --star-size: 0.95rem;
+  --star-color-empty: var(--gray-accent);
+  --star-color-fill: var(--secondary-color);
+  position: relative;
+  display: inline-block;
+  font-size: var(--star-size);
+  line-height: 1;
+  letter-spacing: 0.08em;
+  white-space: nowrap;
+  vertical-align: -0.05em;
+}
+
+.star-rating::before,
+.star-rating::after {
+  content: "★★★★★";
+}
+
+.star-rating::before {
+  color: var(--star-color-empty);
+}
+
+.star-rating::after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: calc((var(--rating) / 5) * 100%);
+  overflow: hidden;
+  color: var(--star-color-fill);
+}
+
 .review {
   background-color: var(--off-white-light);
   border-left: 2px solid var(--primary-color);
@@ -198,4 +381,141 @@ ul li {
 .pub-list ul {
   padding: 0;
   line-height: 1.5em;
+}
+
+.publications-list {
+  width: 100%;
+  max-width: none;
+}
+
+.publications-year-block {
+  margin: 0 0 1.5rem;
+}
+
+.publications-year {
+  display: inline-block;
+  margin: 1.4rem 0 0.7rem;
+  padding-bottom: 0.08rem;
+  border-bottom: 2px solid var(--secondary-color);
+}
+
+.publications-entry {
+  margin: 0 0 1.1rem;
+}
+
+.publications-line {
+  max-width: none;
+  margin: 0;
+}
+
+.publications-list p {
+  max-width: none;
+}
+
+.publications-title {
+  margin-bottom: 0.08rem;
+  font-weight: 400;
+}
+
+.publications-title a {
+  font-weight: 400;
+  text-decoration-thickness: 0.09em;
+}
+
+.publications-authors,
+.publications-venue,
+.publications-supplementary {
+  color: #222;
+}
+
+.publications-authors {
+  margin-bottom: 0.03rem;
+}
+
+.publications-venue {
+  margin-bottom: 0.06rem;
+  font-style: italic;
+}
+
+.publications-supplementary {
+  font-size: 0.95rem;
+  color: var(--dark-gray);
+}
+
+.publications-supplementary .pub-sep {
+  padding: 0 0.28rem;
+}
+
+.publications-supplementary a {
+  white-space: nowrap;
+}
+
+@media (max-width: 760px) {
+  body {
+    padding: 1.4rem 0.8rem 0.8rem;
+  }
+
+  .profile-photo {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem;
+    max-width: 220px;
+  }
+
+  .pub-card {
+    grid-template-columns: 1fr;
+  }
+
+  .pub-card-thumb {
+    min-height: 0;
+  }
+}
+
+@media (min-width: 980px) {
+  body {
+    max-width: 800px;
+    padding: 2.4rem 1rem 14rem;
+  }
+
+  .site-header {
+    position: fixed;
+    top: 2.4rem;
+    left: max(1rem, calc(50% - 400px - 185px));
+    width: 155px;
+    margin: 0;
+    padding: 0 0 0 0.9rem;
+    border-left: 2px solid var(--secondary-color);
+  }
+
+  .site-title-wrap {
+    text-align: left;
+    margin: 0 0 0.9rem;
+  }
+
+  .site-title {
+    font-size: 1.6rem;
+    line-height: 1.05;
+  }
+
+  .site-nav {
+    text-align: left;
+  }
+
+  .menu {
+    text-align: left;
+  }
+
+  .menu li {
+    display: block;
+    margin: 0 0 0.55rem;
+  }
+
+  .menu a {
+    display: inline-block;
+    margin-right: 0;
+  }
+
+  .site-nav hr {
+    display: none;
+  }
 }
