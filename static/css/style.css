@@ -1,4 +1,8 @@
 :root {
+  --content-max: 800px;
+  --page-pad: 1rem;
+  --rail-width: 155px;
+  --rail-gap: 30px;
   --primary-color: #C04F17;
   --secondary-color: #009B55;
   --gray-accent: #B3B3B3;
@@ -9,9 +13,9 @@
 }
 
 body {
-  max-width: 800px;
+  max-width: var(--content-max);
   margin: auto;
-  padding: 2.2em 1em 1em;
+  padding: 2.2em var(--page-pad) 1em;
   font-size: 115%;
   line-height: 1.5;
   color: #111;
@@ -496,17 +500,17 @@ ul li {
   }
 }
 
-@media (min-width: 980px) {
+@media (min-width: 1280px) {
   body {
-    max-width: 800px;
-    padding: 2.4rem 1rem 14rem;
+    max-width: var(--content-max);
+    padding: 2.4rem var(--page-pad) 14rem;
   }
 
   .site-header {
     position: fixed;
     top: 2rem;
-    left: max(1rem, calc(50% - 400px - 185px));
-    width: 155px;
+    left: max(var(--page-pad), calc(50% - (var(--content-max) / 2) - var(--rail-width) - var(--rail-gap)));
+    width: var(--rail-width);
     margin: 0;
     padding: 0 0 0 0.9rem;
     border-left: 2px solid var(--secondary-color);
