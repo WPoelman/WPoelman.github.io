@@ -28,6 +28,10 @@ weight = 4
 name = "Reading List"
 url = "books/"
 weight = 5
+[[menu.main]]
+name = "QQ Explorer"
+url = "qq/"
+weight = 6
 # [[menu.main]]
 # name = "Tags"
 # url = "tags/"

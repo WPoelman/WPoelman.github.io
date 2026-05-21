@@ -18,6 +18,8 @@ sections:
         card_links:
           - label: GitHub
             url: https://github.com/WPoelman/qwanqwa
+          - label: Try the explorer!
+            url: /qq/
 
   - title: "2026"
     items:
