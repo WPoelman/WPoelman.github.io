@@ -63,6 +63,19 @@ sections:
           - label: code
             url: https://github.com/stefaccou/TIPA
 
+      - id: typdiv-framework
+        title: "A Principled Framework for Evaluating on Typologically Diverse Languages"
+        title_url: https://aclanthology.org/2026.cl-1.7/
+        authors_html: "Esther Ploeger, <strong>Wessel Poelman</strong>, Andreas Holck Høeg-Petersen, Anders Schlichtkrull, Miryam de Lhoneux &amp; Johannes Bjerva."
+        summary_html: "<em>Computational Linguistics</em>"
+        links:
+          - label: paper
+            url: https://aclanthology.org/2026.cl-1.7/
+          - label: poster
+            url: /data/clin-2024-poster.pdf
+          - label: code
+            url: https://github.com/esther2000/typdiv-sampling
+
   - title: "2025"
     items:
       - id: positional-encodings
@@ -112,19 +125,6 @@ sections:
             url: https://github.com/rokokot/qtype-eval
           - label: dataset
             url: https://huggingface.co/datasets/rokokot/question-type-and-complexity
-
-      - id: typdiv-framework
-        title: "A Principled Framework for Evaluating on Typologically Diverse Languages"
-        title_url: https://arxiv.org/abs/2407.05022
-        authors_html: "Esther Ploeger, <strong>Wessel Poelman</strong>, Andreas Holck Høeg-Petersen, Anders Schlichtkrull, Miryam de Lhoneux &amp; Johannes Bjerva."
-        summary_html: "<em>Computational Linguistics</em>"
-        links:
-          - label: paper
-            url: https://arxiv.org/abs/2407.05022
-          - label: poster
-            url: /data/clin-2024-poster.pdf
-          - label: code
-            url: https://github.com/esther2000/typdiv-sampling
 
       - id: roles-of-english
         featured: true
