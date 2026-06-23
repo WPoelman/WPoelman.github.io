@@ -25,12 +25,12 @@ sections:
     items:
       - id: wiki-quality
         title: "How Good Is Your Wikipedia? Auditing Data Quality for Low-resource and Multilingual NLP"
-        title_url: https://arxiv.org/abs/2411.05527
+        title_url: https://aclanthology.org/2026.acl-long.1373/
         authors_html: "Kushal Tatariya*, Artur Kulmizev*, <strong>Wessel Poelman</strong>, Esther Ploeger, Marcel Bollmann, Johannes Bjerva, Jiaming Luo, Heather Lent &amp; Miryam de Lhoneux."
-        summary_html: "To appear in <em>ACL 2026</em>"
+        summary_html: "<em>ACL 2026</em>"
         links:
           - label: paper
-            url: https://arxiv.org/abs/2411.05527
+            url: https://aclanthology.org/2026.acl-long.1373/
           - label: code
             url: https://github.com/akulmizev/Wikipedia_Quality_Estimation
 
