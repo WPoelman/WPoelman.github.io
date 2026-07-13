@@ -1,6 +1,6 @@
 +++
 title = 'Quick Tips for Working with Languages'
-date = 2026-07-13T18:18:41+01:00
+date = 2026-07-13T17:18:41+01:00
 draft = false
 author = 'Wessel Poelman'
 +++
