@@ -5,7 +5,7 @@ sections:
         featured: true
         image: /img/pubs/qq-demo.svg
         image_alt: QQ demo visualization
-        title: "QQ: A Toolkit for Language Identifiers and Metadata"
+        title: "QQ: A Language Metadata Toolkit for Multilingual NLP"
         title_url: https://arxiv.org/abs/2603.00620
         authors_html: "<strong>Wessel Poelman</strong>, Yiyi Chen &amp; Miryam de Lhoneux."
         summary_html: "<em>Pre-print, under review.</em>"
