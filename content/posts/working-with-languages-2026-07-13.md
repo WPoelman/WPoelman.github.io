@@ -55,7 +55,7 @@ I can technically choose to *encode* these units in any symbol system.
 For instance, if I use a [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher) and shift the letters in the alphabet by 1, I'm still writing English, but just encoded differently: Uijt jt Fohmjti!
 The same applies to scripts and languages; Kazakh can officially be written in Cyrillic, Arabic, and Latin scripts; regardless of which one we choose, the language we're writing is still Kazakh.
 Certain *transliterations* (roughly transferring a language from one script to another; for example writing Hindi in Latin script instead of Devanagari) are also officially recognized.
-A language is a set units and their arrangement, an encoding is the choice of how to represent this.
+A language is a set of units and their arrangement, an encoding is the choice of how to represent this.
 So, referring to Arabic or Hebrew as a "right-to-left language" should sound very silly after what I just outlined.
 I recommend [this paper](https://aclanthology.org/2023.cawl-1.1/) for more such pitfalls, especially when talking about Chinese, Japanese, and Korean (CJK).
 One last point is that *languages* are technically much broader than *human languages*: programming languages, formal languages, context-free languages, and so on.
