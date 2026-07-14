@@ -11,6 +11,10 @@ I will be updating this page when I (re-)find more nice quotes.
 Note that I throw everything in here; some reader discretion is advised (nothing too spicy).
 The ordering is semi-random, some successive quotes are on purpose.
 
+> "Daar waar ik vandaan kom verstrijkt geen tijd, de enige tijd die verstrijkt is hier."
+>
+> -- *Ik Kom Hier Nog Op Terug, Rob van Essen, p. 204*
+
 > "What is an up and coming neighborhood and where is it coming from?"
 >
 > -- *Violence, Parquet Courts*
@@ -124,5 +128,3 @@ The ordering is semi-random, some successive quotes are on purpose.
 > "We're smokin' filtered crack, you stupid piece of shit." 
 >
 > -- *[Dracula Flow 3](https://www.youtube.com/watch?v=N-7gbWKbXbQ)* -->
-
-<!-- Die ene uit een Houllebecq roman, kan 'm niet vinden, iets in de richting van "het was een mooie dag, niet alleen omdat alle bemanning en passagiers, inclusief schoonmoeder, met Air France vlucht 123 in de Middellandse Zee zijn gestort, ...  -->
