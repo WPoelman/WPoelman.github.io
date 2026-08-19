@@ -4,7 +4,7 @@ title: Home
 
 {{< figure src="img/foto.jpeg" width="260" class="profile-photo" >}}
 
-I work as a PhD student at [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html), where I am part of [LAGoM](https://www.lagom.cs.kuleuven.be/) under the supervision of [Miryam de Lhoneux](https://people.cs.kuleuven.be/~miryam.delhoneux/). My research asks a simple question: how do we know that multilingual NLP systems are improving for the reasons we think they are?
+I work as a PhD student at [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html), where I am part of [LAGoM](https://www.lagom.cs.kuleuven.be/) under the supervision of [Miryam de Lhoneux](https://people.cs.kuleuven.be/~miryam.delhoneux/).
 
 Before coming to Belgium, I worked at the [Technical University of Munich](https://www.tum.de/en/) as a research associate, completed a master's in Information Science at the [University of Groningen](https://www.rug.nl/), and worked as a machine learning engineer at [Web-IQ](https://web-iq.com/). More background is available on the [About page](/about/) or in my <a href="/data/wessel-poelman-academic-cv.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
 
@@ -16,13 +16,13 @@ Before coming to Belgium, I worked at the [Technical University of Munich](https
 
 My work focuses on multilingual natural language processing: language sampling, tokenization, modeling choices, and evaluation. I am particularly interested in how linguistic differences between languages influence both model behavior and the claims we make about multilingual systems.
 
-Current themes:
+Current topics:
 
 1. Evaluation and experimentation methodology for multilingual NLP
    ([1](https://aclanthology.org/2025.emnlp-main.369/), [2](https://aclanthology.org/2026.eacl-long.113/), [3](https://aclanthology.org/2025.nodalida-1.53))
 2. Interaction of language characteristics and language modeling
    ([4](https://aclanthology.org/2024.emnlp-main.326/), [5](https://aclanthology.org/2025.ijcnlp-long.95/), [6](https://aclanthology.org/2026.findings-eacl.119/))
-3. Tooling for multilingual language technology
+3. Tooling for multilingual NLP
    ([7](https://arxiv.org/abs/2603.00620), [8](https://arxiv.org/abs/2407.05022))
 
 If this sounds interesting, feel free to reach out!
