@@ -1,5 +1,5 @@
 sections:
-  - title: In progress
+  - title: "2026"
     items:
       - id: qq
         featured: true
@@ -8,12 +8,14 @@ sections:
         title: "QQ: A Language Metadata Toolkit for Multilingual NLP"
         title_url: https://arxiv.org/abs/2603.00620
         authors_html: "<strong>Wessel Poelman</strong>, Yiyi Chen &amp; Miryam de Lhoneux."
-        summary_html: "<em>Pre-print, under review.</em>"
-        card_venue: Preprint
+        summary_html: "<em>EMNLP 2026: System Demonstrations</em>"
+        card_venue: "EMNLP 2026: System Demonstrations"
         links:
           - label: paper
             url: https://arxiv.org/abs/2603.00620
           - label: code
+            url: https://github.com/WPoelman/qwanqwa
+          - label: explorer
             url: https://github.com/WPoelman/qwanqwa
         card_links:
           - label: GitHub
@@ -21,8 +23,15 @@ sections:
           - label: Try the explorer!
             url: /qq/
 
-  - title: "2026"
-    items:
+      - id: visual-sim
+        title: "Seeing the Unseen: Visual Similarity for Pixel Language Model Adaptation"
+        title_url: 
+        authors_html: "Ran Zhang, Miryam de Lhoneux &amp; <strong>Wessel Poelman</strong>."
+        summary_html: "<em>EMNLP 2026</em>"
+        # links:
+        #   - label: paper
+        #     url: https://arxiv.org/abs/
+
       - id: wiki-quality
         title: "How Good Is Your Wikipedia? Auditing Data Quality for Low-resource and Multilingual NLP"
         title_url: https://aclanthology.org/2026.acl-long.1373/

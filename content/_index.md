@@ -35,6 +35,7 @@ For a complete list, see my [publications page](/publications/).
 
 ## Recent News
 
+- **Aug 2026.** Two papers at *EMNLP*: one on adapting pixel language models (congrats Ran!) and QQ got into the demo track.
 - **Jun 2026.** Joining [Barbara Plank](https://mainlp.github.io/) at LMU for a three-month research stay.
 - **Apr 2026.** Paper on multilingual Wikipedia data quality accepted at *ACL*.
 - **Mar 2026.** Two papers at *EACL*.
