@@ -25,12 +25,14 @@ sections:
 
       - id: visual-sim
         title: "Seeing the Unseen: Visual Similarity for Pixel Language Model Adaptation"
-        title_url: 
+        title_url: https://arxiv.org/abs/2608.30541
         authors_html: "Ran Zhang, Miryam de Lhoneux &amp; <strong>Wessel Poelman</strong>."
         summary_html: "<em>EMNLP 2026</em>"
-        # links:
-        #   - label: paper
-        #     url: https://arxiv.org/abs/
+        links:
+          - label: paper
+            url: https://arxiv.org/abs/2608.30541
+          - label: code
+            url: https://github.com/RAN-rz/seeing_the_unseen
 
       - id: wiki-quality
         title: "How Good Is Your Wikipedia? Auditing Data Quality for Low-resource and Multilingual NLP"
