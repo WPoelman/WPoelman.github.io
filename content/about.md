@@ -15,7 +15,7 @@ My MSc thesis work was later published at [COLING 2022](https://aclanthology.org
 
 For the past three academic years, I've been a TA for the MSc course [Natural Language Processing (B-KUL-H02B1A)](https://onderwijsaanbod.kuleuven.be/syllabi/e/H02B1A) and the BSc course [Data Structures and Algorithms (B-KUL-G0P81A)](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0P81AN.htm). At TUM I co-organized an elective course for MSc students called *Natural Language Processing: Methods and Application*. At the University of Groningen, I was a TA for *Introduction to Programming I* and designed course material for the course *Philosophy of Communication*.
 
-I'm fortunate to regularly mentor or supervise students with projects and theses. Some theses have led to publications ([1](https://aclanthology.org/2026.findings-eacl.119/), [2](https://aclanthology.org/2025.mrl-main.28/)), and some students went on to pursue a PhD themselves.
+I'm fortunate to regularly mentor or supervise students with projects and theses. Some theses have led to publications ([1](https://aclanthology.org/2026.findings-eacl.119/), [2](https://aclanthology.org/2025.mrl-main.28/), [3](https://arxiv.org/abs/2608.30541)), and some students went on to pursue a PhD themselves.
 
 ## Volunteering & Service
 

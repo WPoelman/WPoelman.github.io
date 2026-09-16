@@ -16,7 +16,11 @@ sections:
           - label: code
             url: https://github.com/WPoelman/qwanqwa
           - label: explorer
-            url: https://github.com/WPoelman/qwanqwa
+            url: /qq/
+          - label: poster
+            url: /data/emnlp-2026-demo-poster.pdf
+          - label: slides
+            url: /data/emnlp-2026-demo-slides.pdf
         card_links:
           - label: GitHub
             url: https://github.com/WPoelman/qwanqwa
