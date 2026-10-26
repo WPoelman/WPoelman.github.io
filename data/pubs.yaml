@@ -6,13 +6,13 @@ sections:
         image: /img/pubs/qq-demo.svg
         image_alt: QQ demo visualization
         title: "QQ: A Language Metadata Toolkit for Multilingual NLP"
-        title_url: https://arxiv.org/abs/2603.00620
+        title_url: https://aclanthology.org/2026.emnlp-demos.27/
         authors_html: "<strong>Wessel Poelman</strong>, Yiyi Chen &amp; Miryam de Lhoneux."
         summary_html: "<em>EMNLP 2026: System Demonstrations</em>"
         card_venue: "EMNLP 2026: System Demonstrations"
         links:
           - label: paper
-            url: https://arxiv.org/abs/2603.00620
+            url: https://aclanthology.org/2026.emnlp-demos.27/
           - label: code
             url: https://github.com/WPoelman/qwanqwa
           - label: explorer
@@ -29,12 +29,12 @@ sections:
 
       - id: visual-sim
         title: "Seeing the Unseen: Visual Similarity for Pixel Language Model Adaptation"
-        title_url: https://arxiv.org/abs/2608.30541
+        title_url: https://aclanthology.org/2026.emnlp-main.1509/
         authors_html: "Ran Zhang, Miryam de Lhoneux &amp; <strong>Wessel Poelman</strong>."
         summary_html: "<em>EMNLP 2026</em>"
         links:
           - label: paper
-            url: https://arxiv.org/abs/2608.30541
+            url: https://aclanthology.org/2026.emnlp-main.1509/
           - label: code
             url: https://github.com/RAN-rz/seeing_the_unseen
 

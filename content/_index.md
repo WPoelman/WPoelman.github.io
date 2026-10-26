@@ -8,8 +8,7 @@ I work as a PhD student at [KU Leuven](https://www.kuleuven.be/english/kuleuven/
 
 Before coming to Belgium, I worked at the [Technical University of Munich](https://www.tum.de/en/) as a research associate, completed a master's in Information Science at the [University of Groningen](https://www.rug.nl/), and worked as a machine learning engineer at [Web-IQ](https://web-iq.com/). More background is available on the [About page](/about/) or in my <a href="/data/wessel-poelman-academic-cv.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
 
-[KU Leuven Profile](https://www.kuleuven.be/wieiswie/nl/person/00167945) · [Google Scholar](https://scholar.google.com/citations?user=Eqz1qd0AAAAJ&hl=en) · [Semantic Scholar](https://www.semanticscholar.org/author/Wessel-Poelman/2175481435) · [GitHub](https://github.com/WPoelman)
-
+[LinkedIn](https://www.linkedin.com/in/wessel-poelman/) · [KU Leuven Profile](https://www.kuleuven.be/wieiswie/nl/person/00167945) · [Google Scholar](https://scholar.google.com/citations?user=Eqz1qd0AAAAJ&hl=en) · [Semantic Scholar](https://www.semanticscholar.org/author/Wessel-Poelman/2175481435) · [GitHub](https://github.com/WPoelman) 
 **Contact**: wessel.poelman [at] kuleuven.be or contact [at] wesselpoelman.nl
 
 ## Research
