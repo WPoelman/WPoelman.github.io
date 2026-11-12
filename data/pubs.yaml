@@ -66,6 +66,8 @@ sections:
             url: /data/eacl-2026-poster.pdf
           - label: slides
             url: /data/eacl-2026-slides.pdf
+          - label: code
+            url: https://github.com/WPoelman/form-and-meaning
 
       - id: tipa
         title: "TIPA: Typologically Informed Parameter Aggregation"
