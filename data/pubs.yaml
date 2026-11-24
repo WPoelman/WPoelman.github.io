@@ -1,4 +1,20 @@
 sections:
+  - title: "2027"
+    items:
+      - id: wof
+        featured: false
+        image_alt: WOF visualization
+        title: "Measuring Word-Order Flexibility Without Syntactic Annotations"
+        title_url: 
+        authors_html: "<strong>Wessel Poelman</strong>*, Kushal Tatariya*, Jonas Mayer Martins, Coleman Haley &amp; Miryam de Lhoneux."
+        summary_html: "<em>EACL 2027</em>"
+        card_venue: "EACL 2027"
+        links:
+          - label: paper
+            url:
+          - label: code
+            url: 
+
   - title: "2026"
     items:
       - id: qq
@@ -35,6 +51,8 @@ sections:
         links:
           - label: paper
             url: https://aclanthology.org/2026.emnlp-main.1509/
+          - label: poster
+            url: /data/emnlp-2026-poster.pdf
           - label: code
             url: https://github.com/RAN-rz/seeing_the_unseen
 
