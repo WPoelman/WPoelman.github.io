@@ -3,17 +3,16 @@ sections:
     items:
       - id: wof
         featured: false
-        image_alt: WOF visualization
         title: "Measuring Word-Order Flexibility Without Syntactic Annotations"
         title_url: 
-        authors_html: "<strong>Wessel Poelman</strong>*, Kushal Tatariya*, Jonas Mayer Martins, Coleman Haley &amp; Miryam de Lhoneux."
+        authors_html: "<strong>Wessel Poelman</strong>, Kushal Tatariya, Jonas Mayer Martins, Coleman Haley &amp; Miryam de Lhoneux."
         summary_html: "<em>EACL 2027</em>"
         card_venue: "EACL 2027"
         links:
-          - label: paper
+          - label: paper coming soon
             url:
           - label: code
-            url: 
+            url: https://github.com/WPoelman/word-order-flexibility
 
   - title: "2026"
     items:
